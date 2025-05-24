@@ -1,0 +1,37 @@
+index,mid,display_name
+0,/m/09x0r,Speech
+1,/m/05zppz,"Male speech, man speaking"
+2,/m/02zsn,"Female speech, woman speaking"
+3,/m/0ytgt,"Child speech, kid speaking"
+4,/m/01h8n0,Conversation
+11,/m/07sr1lc,Yell
+12,/m/04gy_2,Battle cry
+13,/t/dd00135,Children shouting
+14,/m/03qc9zr,Screaming
+15,/m/02rtxlg,Whispering
+16,/m/01j3sz,Laughter
+18,/m/07r660_,Giggle
+19,/m/07s04w4,Snicker
+20,/m/07sq110,Belly laugh
+21,/m/07rgt08,"Chuckle, chortle"
+66,/m/053hz1,Cheering
+67,/m/028ght,Applause
+68,/m/07rkbfh,Chatter
+300,/m/07yv9,Vehicle
+307,/m/0k4j,Car
+335,/m/0k5j,Aircraft
+358,/m/07rjzl8,Slam
+366,/m/07pn_8q,Chopping (food)
+388,/m/07pp_mv,Alarm
+396,/m/03kmc9,Siren
+398,/m/030rvx,Buzzer
+416,/m/0dv5r,Camera
+426,/m/014zdl,Explosion
+427,/m/032s66,"Gunshot, gunfire"
+434,/m/07qsvvw,"Burst, pop"
+436,/m/07qqyl4,Boom
+438,/m/07pczhz,Chop
+458,/m/0dl83,Arrow
+466,/m/07pws3f,Bang
+470,/m/07pc8lb,Breaking
+481,/m/02fs_r,"Beep, bleep"

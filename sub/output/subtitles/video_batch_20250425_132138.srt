@@ -1,0 +1,4520 @@
+1
+00:00:00,400 --> 00:00:03,896
+This is a point of view which is successful
+
+2
+00:00:04,088 --> 00:00:05,740
+to a certain degree.
+
+3
+00:00:07,360 --> 00:00:10,616
+It goes well up to a certain level, after which it begins
+
+4
+00:00:10,648 --> 00:00:12,220
+to develop complications.
+
+5
+00:00:18,320 --> 00:00:21,752
+As I think it over, it seems to me that the high civilizations of
+
+6
+00:00:21,776 --> 00:00:25,224
+the world have produced exactly three
+
+7
+00:00:25,312 --> 00:00:29,580
+different views of the constitution of nature,
+
+8
+00:00:30,080 --> 00:00:31,900
+of the physical universe.
+
+9
+00:00:33,920 --> 00:00:37,176
+And to enumerate them, I would call them, respectively,
+
+10
+00:00:37,368 --> 00:00:41,100
+nature as a construct, nature as a drama,
+
+11
+00:00:42,240 --> 00:00:44,140
+and nature as an organism.
+
+12
+00:00:46,400 --> 00:00:50,088
+The first view, nature as a construct, has, until very
+
+13
+00:00:50,144 --> 00:00:53,780
+recently, been characteristic of the Western world.
+
+14
+00:00:55,470 --> 00:00:59,126
+The view of nature as a drama has been largely
+
+15
+00:00:59,158 --> 00:01:02,742
+characteristic of India. And finally
+
+16
+00:01:02,806 --> 00:01:06,102
+of nature as an organism has been
+
+17
+00:01:06,126 --> 00:01:08,090
+characteristic of the Far East.
+
+18
+00:01:09,470 --> 00:01:12,950
+I'd like to compare these three views and point
+
+19
+00:01:12,990 --> 00:01:16,758
+out certain
+
+20
+00:01:16,814 --> 00:01:20,342
+of their advantages, disadvantages, and the
+
+21
+00:01:20,366 --> 00:01:23,450
+ways in which they complement each other.
+
+22
+00:01:25,350 --> 00:01:29,410
+And I think part of the interest of this is that our thinking,
+
+23
+00:01:29,830 --> 00:01:33,038
+more and more I've been fascinated by this, that our thinking
+
+24
+00:01:33,214 --> 00:01:37,086
+about the world is strongly
+
+25
+00:01:37,118 --> 00:01:39,170
+influenced by analogies,
+
+26
+00:01:42,950 --> 00:01:46,494
+by sometimes analogies that are almost hidden.
+
+27
+00:01:46,542 --> 00:01:50,180
+They're so far back in the history of the
+
+28
+00:01:50,220 --> 00:01:54,212
+thought of any given civilization or culture that
+
+29
+00:01:54,236 --> 00:01:57,268
+they are taken as something more than analogies. They're taken
+
+30
+00:01:57,404 --> 00:02:00,040
+almost, you could say, as logical patterns.
+
+31
+00:02:02,060 --> 00:02:05,316
+And they are basic to our grammar, to our common
+
+32
+00:02:05,348 --> 00:02:09,380
+sense, and to our attitudes in
+
+33
+00:02:09,420 --> 00:02:11,560
+ways that often go unsuspected.
+
+34
+00:02:14,490 --> 00:02:17,890
+Why don't we start with the Western view of the world
+
+35
+00:02:17,930 --> 00:02:21,570
+as a construct? By this
+
+36
+00:02:21,610 --> 00:02:24,978
+I mean the physical world has
+
+37
+00:02:25,034 --> 00:02:29,090
+historically in the west been looked upon as a
+
+38
+00:02:29,130 --> 00:02:31,710
+created or manufactured article,
+
+39
+00:02:34,250 --> 00:02:38,030
+the work of a creator external to the world.
+
+40
+00:02:40,580 --> 00:02:44,748
+And this view has continued in many ways even
+
+41
+00:02:44,804 --> 00:02:48,732
+after the rise of deism in the 18th century and the general tendency
+
+42
+00:02:48,796 --> 00:02:52,012
+of the scientists to dispense with the
+
+43
+00:02:52,036 --> 00:02:53,840
+hypothesis of the Creator.
+
+44
+00:02:55,380 --> 00:02:59,132
+The idea still remains that the world is
+
+45
+00:02:59,156 --> 00:03:02,572
+a construct analogous to a
+
+46
+00:03:02,596 --> 00:03:06,204
+machine. And indeed, obeying laws
+
+47
+00:03:06,252 --> 00:03:09,672
+or plans in the same way as a machine obeys a
+
+48
+00:03:09,696 --> 00:03:13,400
+blueprint. Even though the
+
+49
+00:03:13,440 --> 00:03:17,260
+lawgiver and the planner himself seems to have disappeared.
+
+50
+00:03:21,200 --> 00:03:24,792
+The basic metaphor, though underlying this, is not so
+
+51
+00:03:24,816 --> 00:03:28,280
+much the machine as the.
+
+52
+00:03:28,320 --> 00:03:31,800
+The work of clay, the pot, or the sculpture
+
+53
+00:03:31,880 --> 00:03:33,420
+of the modeled figure.
+
+54
+00:03:35,050 --> 00:03:38,066
+For as you know, it is said in the book of Genesis that the Lord
+
+55
+00:03:38,098 --> 00:03:42,258
+God created Adam out of the dust of the ground and breathed
+
+56
+00:03:42,354 --> 00:03:44,870
+the breath of life into his nostrils.
+
+57
+00:03:47,530 --> 00:03:50,978
+And so our language, our poetry, is full of
+
+58
+00:03:51,114 --> 00:03:57,522
+allusions to the
+
+59
+00:03:57,546 --> 00:04:01,542
+fact that we are really, after all, clay imperial
+
+60
+00:04:01,606 --> 00:04:05,126
+Caesar, dead and turned to clay, might stop a hole
+
+61
+00:04:05,158 --> 00:04:06,530
+to keep the wind away.
+
+62
+00:04:09,070 --> 00:04:11,530
+And because of this figure,
+
+63
+00:04:13,150 --> 00:04:15,250
+it is, as I have often said,
+
+64
+00:04:15,550 --> 00:04:19,414
+fundamental to our common sense. That the world
+
+65
+00:04:19,502 --> 00:04:23,142
+is formed, matter the
+
+66
+00:04:23,166 --> 00:04:26,170
+form being the shape of the part, the matter being the clay.
+
+67
+00:04:27,060 --> 00:04:31,680
+And thus we think of life as being basically
+
+68
+00:04:33,540 --> 00:04:37,372
+something done to a medium. The medium
+
+69
+00:04:37,436 --> 00:04:41,948
+is stuff, a kind of formless and
+
+70
+00:04:42,084 --> 00:04:45,760
+of itself inert and unintelligent goo,
+
+71
+00:04:46,980 --> 00:04:51,120
+which requires an external agency
+
+72
+00:04:52,270 --> 00:04:56,130
+to give it form and intelligence and life.
+
+73
+00:04:58,270 --> 00:05:01,590
+And naturally, because we have thought this way for so long,
+
+74
+00:05:01,630 --> 00:05:05,654
+it's a terribly difficult idea to abandon, to get out of our heads
+
+75
+00:05:05,702 --> 00:05:10,342
+the notion that in
+
+76
+00:05:10,366 --> 00:05:14,890
+the same way that tables are made of wood and houses of stone,
+
+77
+00:05:16,030 --> 00:05:19,462
+so we tend to think that trees are made
+
+78
+00:05:19,566 --> 00:05:23,250
+of wood and mountains of stone and people
+
+79
+00:05:23,790 --> 00:05:27,222
+of flesh, and all of it eventually reducing itself
+
+80
+00:05:27,366 --> 00:05:29,450
+to the primordial goo,
+
+81
+00:05:30,110 --> 00:05:33,810
+the universal clay, the primal matter,
+
+82
+00:05:35,310 --> 00:05:39,430
+the formless original
+
+83
+00:05:39,510 --> 00:05:43,286
+water over which the spirit of God is said to have moved
+
+84
+00:05:43,398 --> 00:05:45,170
+in the beginning of all time.
+
+85
+00:05:49,480 --> 00:05:53,536
+Now, beyond the idea
+
+86
+00:05:53,568 --> 00:05:56,880
+of the the world as a
+
+87
+00:05:56,920 --> 00:06:01,216
+work of pottery lies the more sophisticated idea
+
+88
+00:06:01,408 --> 00:06:04,784
+of the world as a mechanism. In this Western
+
+89
+00:06:04,832 --> 00:06:07,220
+view of the world as a construct,
+
+90
+00:06:09,000 --> 00:06:12,890
+as soon as men began to understand mechanical
+
+91
+00:06:12,970 --> 00:06:17,470
+principles, it became extraordinarily convenient
+
+92
+00:06:19,090 --> 00:06:23,194
+to make analogies between various
+
+93
+00:06:23,242 --> 00:06:26,986
+types of machinery and
+
+94
+00:06:27,138 --> 00:06:30,730
+things to be found in the world. And it is really
+
+95
+00:06:30,770 --> 00:06:33,978
+upon this analogy that the great achievements of
+
+96
+00:06:34,034 --> 00:06:37,510
+Western technology have hitherto been based.
+
+97
+00:06:40,660 --> 00:06:44,540
+And it's really very difficult to think that we
+
+98
+00:06:44,580 --> 00:06:48,220
+could have devised our technology and that our practical
+
+99
+00:06:48,300 --> 00:06:52,716
+sciences could have made such progress without
+
+100
+00:06:52,788 --> 00:06:56,092
+the idea of the analogy between the world and a
+
+101
+00:06:56,116 --> 00:06:57,520
+constructed machine.
+
+102
+00:06:59,700 --> 00:07:03,668
+You see, one of the most fundamental things
+
+103
+00:07:03,724 --> 00:07:07,000
+about a machine is that it is an assemblage of parts.
+
+104
+00:07:09,340 --> 00:07:13,060
+And the successful measurement and
+
+105
+00:07:13,100 --> 00:07:17,092
+description of nature depends
+
+106
+00:07:17,236 --> 00:07:21,092
+upon the calculus, upon reducing it to parts. You know,
+
+107
+00:07:21,116 --> 00:07:24,440
+the word calculus originally meant pebbles.
+
+108
+00:07:25,020 --> 00:07:28,280
+And pebbles were one of the oldest methods of calculating,
+
+109
+00:07:30,310 --> 00:07:34,130
+counting pebbles in a funny
+
+110
+00:07:35,030 --> 00:07:37,890
+kind of association of words.
+
+111
+00:07:39,350 --> 00:07:46,158
+Calculus is also calculating
+
+112
+00:07:46,254 --> 00:07:49,246
+in the sense of having a calculating attitude.
+
+113
+00:07:49,438 --> 00:07:50,450
+Scheming.
+
+114
+00:07:53,190 --> 00:07:57,268
+And scheming is associated with. With turning things to
+
+115
+00:07:57,324 --> 00:07:59,160
+calculi or stones.
+
+116
+00:08:02,060 --> 00:08:06,164
+It is a sort of killing
+
+117
+00:08:06,212 --> 00:08:09,960
+the world, reducing it from the living to the dead,
+
+118
+00:08:10,460 --> 00:08:14,760
+from the organism to the machine. But nevertheless,
+
+119
+00:08:15,180 --> 00:08:19,236
+it has had the most marvelous consequences so far as we are concerned.
+
+120
+00:08:19,348 --> 00:08:23,092
+And the cultures which thought of nature by analogy with drama and
+
+121
+00:08:23,116 --> 00:08:26,372
+by analogy with organism, did not produce the
+
+122
+00:08:26,396 --> 00:08:29,940
+technology that we in the west produced. Let me just
+
+123
+00:08:29,980 --> 00:08:32,440
+for a moment contrast the other attitudes.
+
+124
+00:08:33,500 --> 00:08:36,120
+The Indian attitude of the world is a drama.
+
+125
+00:08:37,980 --> 00:08:41,412
+In Hindu thought, the world is not thought of as
+
+126
+00:08:41,516 --> 00:08:44,280
+being made or constructed by God,
+
+127
+00:08:45,820 --> 00:08:49,926
+but as being actually God himself playing
+
+128
+00:08:49,998 --> 00:08:53,334
+a game. The idea
+
+129
+00:08:53,382 --> 00:08:57,530
+of one single divine actor
+
+130
+00:08:59,310 --> 00:09:02,582
+who is playing all the parts of all
+
+131
+00:09:02,606 --> 00:09:05,890
+the creatures in the world imagining himself to be them,
+
+132
+00:09:07,710 --> 00:09:11,126
+assuming as it were myriads of masks
+
+133
+00:09:11,318 --> 00:09:15,062
+behind which there is simply one wearer of the
+
+134
+00:09:15,086 --> 00:09:15,770
+mask.
+
+135
+00:09:18,340 --> 00:09:20,200
+In a forthcoming book,
+
+136
+00:09:22,740 --> 00:09:26,252
+the second volume of the Masks of God, it's not published yet, but I've just
+
+137
+00:09:26,276 --> 00:09:30,400
+seen a copy, Joseph Campbell contrasts
+
+138
+00:09:30,900 --> 00:09:34,252
+the way in which the myth of the one who became
+
+139
+00:09:34,316 --> 00:09:37,080
+two, the one that became many,
+
+140
+00:09:37,940 --> 00:09:41,740
+has gone in two quite different directions.
+
+141
+00:09:41,820 --> 00:09:44,646
+Beginning in ancient Sumeria,
+
+142
+00:09:44,838 --> 00:09:48,250
+which constitutes, as it were, a sort of cultural watershed,
+
+143
+00:09:48,590 --> 00:09:52,530
+it has flowed eastwards in one way and westwards in another
+
+144
+00:09:53,150 --> 00:09:56,770
+to the east. The idea that the One,
+
+145
+00:09:57,070 --> 00:10:01,350
+the Godhead, in other words, split itself and
+
+146
+00:10:01,390 --> 00:10:05,222
+dismembered itself into many parts quite voluntarily, and thus became
+
+147
+00:10:05,286 --> 00:10:09,052
+the world as a play to
+
+148
+00:10:09,076 --> 00:10:12,348
+the West. The theme of the one who became many
+
+149
+00:10:12,404 --> 00:10:15,680
+is different because, as he points out in the Book of Genesis,
+
+150
+00:10:16,020 --> 00:10:19,676
+it is not the divine who becomes male
+
+151
+00:10:19,708 --> 00:10:23,452
+and female, it is the creature. In the Upanishads,
+
+152
+00:10:23,596 --> 00:10:26,240
+say the Brihad Dharanyaka Upanishad,
+
+153
+00:10:26,660 --> 00:10:28,400
+the divine self,
+
+154
+00:10:29,300 --> 00:10:32,940
+is described as a saying
+
+155
+00:10:32,980 --> 00:10:36,428
+in the beginning of time, let me become two. And he splits into male
+
+156
+00:10:36,444 --> 00:10:39,732
+and female, and thus generates the world. But in the Book of
+
+157
+00:10:39,836 --> 00:10:42,772
+Genesis, it is not the Godhead who splits,
+
+158
+00:10:42,916 --> 00:10:46,804
+it is man, the creature who is split into Adam
+
+159
+00:10:46,852 --> 00:10:48,280
+and then into Eve.
+
+160
+00:10:51,260 --> 00:10:54,532
+But thus, in the eastern world, we have the dramatic
+
+161
+00:10:54,596 --> 00:10:58,756
+view. In India in particular. And although
+
+162
+00:10:58,868 --> 00:11:02,148
+it's interesting to note that in, say, in the writings
+
+163
+00:11:02,164 --> 00:11:06,530
+of the great philosopher Shankara
+
+164
+00:11:07,030 --> 00:11:11,010
+and others, you very often encounter the analogy of the potter
+
+165
+00:11:11,510 --> 00:11:15,566
+or of pots as representing the world, the roles
+
+166
+00:11:15,598 --> 00:11:16,610
+are reversed.
+
+167
+00:11:18,550 --> 00:11:22,350
+The it is the clay is used as the
+
+168
+00:11:22,390 --> 00:11:26,210
+symbol for the divine reality.
+
+169
+00:11:27,270 --> 00:11:31,390
+Just as pots are all made of clay, or as
+
+170
+00:11:31,430 --> 00:11:35,258
+jewels are all made of gold, so all
+
+171
+00:11:35,314 --> 00:11:39,114
+things in the world are of one divine substance, which is of the nature
+
+172
+00:11:39,162 --> 00:11:42,762
+of the Godhead or Brahman. It's interesting,
+
+173
+00:11:42,826 --> 00:11:45,310
+the different use of the simile.
+
+174
+00:11:48,210 --> 00:11:51,994
+And so from the standpoint of the dramatic
+
+175
+00:11:52,042 --> 00:11:53,470
+view of the universe,
+
+176
+00:11:56,290 --> 00:12:00,036
+all the divisions and distinctions of the world are looked
+
+177
+00:12:00,068 --> 00:12:04,240
+upon as being a kind of. As if
+
+178
+00:12:05,500 --> 00:12:09,560
+they are in play, they are not quite serious.
+
+179
+00:12:11,980 --> 00:12:15,700
+And this contrasts very sharply with
+
+180
+00:12:15,740 --> 00:12:20,052
+what has been the characteristic Western view that the distinctions in
+
+181
+00:12:20,076 --> 00:12:23,280
+the world are the most important things about it,
+
+182
+00:12:24,780 --> 00:12:28,502
+that they are deeply serious. The distinction
+
+183
+00:12:28,566 --> 00:12:32,214
+of good and evil is an eternal distinction, as is the
+
+184
+00:12:32,222 --> 00:12:35,290
+distinction between the Creator and the creature.
+
+185
+00:12:36,190 --> 00:12:39,130
+The world, in this view, is not a drama.
+
+186
+00:12:41,230 --> 00:12:43,610
+It is played not by actors,
+
+187
+00:12:44,430 --> 00:12:49,078
+but by what we call real individuals,
+
+188
+00:12:49,174 --> 00:12:52,422
+even real persons, although, funnily enough, as I
+
+189
+00:12:52,446 --> 00:12:57,140
+suppose you know, the word person is originally Persona,
+
+190
+00:12:57,960 --> 00:13:02,820
+the megaphone mask worn by actors
+
+191
+00:13:03,960 --> 00:13:06,900
+in classical Greek drama.
+
+192
+00:13:10,120 --> 00:13:14,096
+Then thirdly, there is the organic view characteristic
+
+193
+00:13:14,128 --> 00:13:14,860
+of China.
+
+194
+00:13:17,800 --> 00:13:21,130
+In this, there is no real thought of there
+
+195
+00:13:21,170 --> 00:13:24,714
+being a divine creator or a divine actor behind
+
+196
+00:13:24,802 --> 00:13:28,730
+the world, but rather the world is
+
+197
+00:13:28,770 --> 00:13:32,650
+thought of as being self moving
+
+198
+00:13:32,730 --> 00:13:36,730
+and self creating. The word for
+
+199
+00:13:36,770 --> 00:13:40,234
+nature in Chinese means what is of itself.
+
+200
+00:13:40,362 --> 00:13:45,440
+So when
+
+201
+00:13:45,980 --> 00:13:49,480
+in the West a child asks its mother,
+
+202
+00:13:49,980 --> 00:13:53,060
+who made me? And she replies,
+
+203
+00:13:53,140 --> 00:13:56,660
+darling, God made you. And the child asks, but who
+
+204
+00:13:56,700 --> 00:14:00,680
+made God? She has to say, nobody made God.
+
+205
+00:14:01,420 --> 00:14:04,920
+And that is a great puzzle to the child who thinks
+
+206
+00:14:05,500 --> 00:14:10,460
+of the world as a construction.
+
+207
+00:14:11,430 --> 00:14:15,662
+And it may be explained to
+
+208
+00:14:15,686 --> 00:14:19,326
+the child, if you like, that God makes himself.
+
+209
+00:14:19,518 --> 00:14:23,410
+He exists of himself because he is existence.
+
+210
+00:14:25,270 --> 00:14:27,730
+To put it in more theological language,
+
+211
+00:14:29,110 --> 00:14:31,890
+he has the attribute called aseity,
+
+212
+00:14:32,390 --> 00:14:36,530
+from the Latin assay. By himself.
+
+213
+00:14:40,010 --> 00:14:43,682
+Perhaps some kind of infant terrible would
+
+214
+00:14:43,706 --> 00:14:47,250
+ask the question, well, if that's true of God,
+
+215
+00:14:47,410 --> 00:14:50,802
+why couldn't it be true of the world in the first place? Why did
+
+216
+00:14:50,826 --> 00:14:54,322
+you have to make that additional step? If he did so,
+
+217
+00:14:54,346 --> 00:14:57,870
+he would be thinking more or less in the Chinese way,
+
+218
+00:14:59,050 --> 00:15:02,930
+which does not think of the world either as an
+
+219
+00:15:02,970 --> 00:15:06,820
+artifact or of some maker, or as a mask
+
+220
+00:15:06,980 --> 00:15:11,092
+or appearance worn by some sort of deeper
+
+221
+00:15:11,236 --> 00:15:14,660
+reality. He doesn't, in other words,
+
+222
+00:15:14,740 --> 00:15:18,580
+have a two level view
+
+223
+00:15:18,700 --> 00:15:22,468
+of nature as an appearance, underneath which
+
+224
+00:15:22,524 --> 00:15:25,440
+there is something else to explain it.
+
+225
+00:15:26,940 --> 00:15:30,120
+He sees it all rather as self evident,
+
+226
+00:15:32,320 --> 00:15:37,100
+as being something which regulates itself
+
+227
+00:15:38,000 --> 00:15:40,140
+and indeed orders itself.
+
+228
+00:15:42,080 --> 00:15:45,528
+There is a certain sense, you see, in which the Chinese view
+
+229
+00:15:45,584 --> 00:15:49,580
+is fundamentally, or you could almost call it anarchical,
+
+230
+00:15:50,400 --> 00:15:53,580
+or if you don't like that word, you could call it democratic.
+
+231
+00:15:55,840 --> 00:15:58,700
+A world which is self governing,
+
+232
+00:16:00,070 --> 00:16:02,090
+not even through a president,
+
+233
+00:16:03,430 --> 00:16:06,814
+but self governing in every way. A great and colossal
+
+234
+00:16:06,862 --> 00:16:10,730
+anarchism which
+
+235
+00:16:11,830 --> 00:16:15,310
+moves itself in the same way as you and
+
+236
+00:16:15,350 --> 00:16:18,050
+I move our fingers,
+
+237
+00:16:18,790 --> 00:16:22,510
+without directing them in the sense that we know exactly what
+
+238
+00:16:22,550 --> 00:16:25,270
+we're doing and how we move them, we don't.
+
+239
+00:16:31,130 --> 00:16:35,090
+Now, I've said that the
+
+240
+00:16:35,130 --> 00:16:39,330
+Western view is probably what
+
+241
+00:16:39,370 --> 00:16:42,994
+made it possible for us to develop
+
+242
+00:16:43,082 --> 00:16:45,070
+our highly advanced technology.
+
+243
+00:16:46,570 --> 00:16:50,330
+By thinking about the world as a construction,
+
+244
+00:16:50,900 --> 00:16:54,652
+we could think about the laws or principles
+
+245
+00:16:54,716 --> 00:16:58,796
+or plans or regularities upon
+
+246
+00:16:58,828 --> 00:16:59,960
+which it was based.
+
+247
+00:17:02,660 --> 00:17:06,440
+We could think, for example, of the calculus of number
+
+248
+00:17:08,180 --> 00:17:11,340
+as the basic
+
+249
+00:17:11,420 --> 00:17:15,196
+characteristic of the law upon
+
+250
+00:17:15,228 --> 00:17:16,680
+which nature is based.
+
+251
+00:17:18,280 --> 00:17:22,192
+By doing that, we caught onto the idea of thinking
+
+252
+00:17:22,256 --> 00:17:25,184
+of all things as reducible to atoms,
+
+253
+00:17:25,232 --> 00:17:26,900
+to parts, to bits.
+
+254
+00:17:28,280 --> 00:17:31,872
+And then by thinking of bits, we found that
+
+255
+00:17:31,896 --> 00:17:35,552
+we could measure the world very accurately,
+
+256
+00:17:35,696 --> 00:17:38,500
+describe its regularities very accurately.
+
+257
+00:17:39,480 --> 00:17:43,020
+And that gave us an astonishing degree of control over it.
+
+258
+00:17:46,800 --> 00:17:50,936
+But this is a point of view which is successful
+
+259
+00:17:51,128 --> 00:17:52,780
+to a certain degree.
+
+260
+00:17:54,400 --> 00:17:57,656
+It goes well up to a certain level. After which it begins
+
+261
+00:17:57,688 --> 00:17:59,260
+to develop complications.
+
+262
+00:18:03,360 --> 00:18:07,432
+For one thing, you could say it has complications. Which are psychological
+
+263
+00:18:07,496 --> 00:18:10,980
+on the one hand. And practical and technical on another.
+
+264
+00:18:13,650 --> 00:18:15,830
+From the psychological point of view,
+
+265
+00:18:17,170 --> 00:18:20,906
+its complication is that when it becomes
+
+266
+00:18:21,098 --> 00:18:24,590
+commonsensical to us to look at the world as a mechanism.
+
+267
+00:18:26,210 --> 00:18:29,834
+We begin as humans, as people
+
+268
+00:18:29,922 --> 00:18:33,674
+capable of feeling and love. To feel the external
+
+269
+00:18:33,722 --> 00:18:36,150
+world rather alien to us.
+
+270
+00:18:37,580 --> 00:18:39,240
+Yes, it's a machine.
+
+271
+00:18:40,700 --> 00:18:46,520
+It's a great big automatic
+
+272
+00:18:49,100 --> 00:18:51,000
+mechanical arrangement.
+
+273
+00:18:52,780 --> 00:18:57,700
+Which in essence is simply stupid
+
+274
+00:18:57,780 --> 00:18:58,400
+energy.
+
+275
+00:19:02,950 --> 00:19:06,930
+We thereupon feel that it has nothing in common
+
+276
+00:19:08,550 --> 00:19:12,158
+with ourselves. And perhaps even
+
+277
+00:19:12,214 --> 00:19:16,190
+though we try to give the same sort of account of
+
+278
+00:19:16,230 --> 00:19:19,582
+ourselves. And try to reduce our brains and emotions
+
+279
+00:19:19,646 --> 00:19:22,690
+to some kind of neurological computer mechanism.
+
+280
+00:19:23,910 --> 00:19:26,770
+That makes us, in a way, hate ourselves.
+
+281
+00:19:28,160 --> 00:19:31,580
+For as soon as we start thinking of ourselves as automata.
+
+282
+00:19:32,960 --> 00:19:38,728
+We begin ethically and psychologically
+
+283
+00:19:38,824 --> 00:19:42,460
+treating ourselves as automata. We lose respect for ourselves.
+
+284
+00:19:46,000 --> 00:19:50,980
+And thereupon feel
+
+285
+00:19:52,480 --> 00:19:55,130
+that what is central to us.
+
+286
+00:19:56,390 --> 00:19:59,130
+The feeling center, the person,
+
+287
+00:19:59,990 --> 00:20:04,014
+is trapped in a cosmos.
+
+288
+00:20:04,142 --> 00:20:06,530
+That is a mechanical nightmare,
+
+289
+00:20:07,030 --> 00:20:08,530
+foreign and strange.
+
+290
+00:20:10,470 --> 00:20:13,810
+We can see ourselves as a kind of ghastly accident.
+
+291
+00:20:18,470 --> 00:20:22,138
+And I don't wonder that this engenders.
+
+292
+00:20:22,314 --> 00:20:25,870
+Certain kinds of suicidal tendencies in our culture.
+
+293
+00:20:27,890 --> 00:20:31,830
+So much for the psychological point of view. From the technical point of view,
+
+294
+00:20:33,170 --> 00:20:36,510
+the analogy of nature with mechanism.
+
+295
+00:20:37,890 --> 00:20:41,190
+Develops its own disadvantages. After a certain point.
+
+296
+00:20:43,650 --> 00:20:48,468
+That is to say, the disadvantage of trying to
+
+297
+00:20:48,524 --> 00:20:52,920
+manage the physical universe. As if it were indeed
+
+298
+00:20:53,260 --> 00:20:57,300
+an assemblage of separate parts or
+
+299
+00:20:57,340 --> 00:21:01,348
+separable parts. For the first sort
+
+300
+00:21:01,364 --> 00:21:05,540
+of person to notice this mistake. Would be the
+
+301
+00:21:05,580 --> 00:21:08,280
+extreme surgical or medical specialist.
+
+302
+00:21:09,660 --> 00:21:13,316
+Who knows, for example, all about hearts
+
+303
+00:21:13,348 --> 00:21:17,860
+or about stomachs. But very little about brains or lungs
+
+304
+00:21:18,200 --> 00:21:22,000
+or glands. And who treats
+
+305
+00:21:22,160 --> 00:21:26,368
+one organ at a time. And becomes unaware of the imbalances
+
+306
+00:21:26,464 --> 00:21:29,744
+inflicted upon other organs. By what he's done to the organ in
+
+307
+00:21:29,752 --> 00:21:31,140
+which he specializes.
+
+308
+00:21:32,680 --> 00:21:36,912
+Also, in the same way, the specialist
+
+309
+00:21:36,976 --> 00:21:40,368
+always tends to
+
+310
+00:21:40,424 --> 00:21:44,400
+see the units of nature. And to be unaware
+
+311
+00:21:44,480 --> 00:21:48,140
+of their connections or relations. Relationships which
+
+312
+00:21:48,180 --> 00:21:52,240
+are, after all, inseparable relationships with all the other parts.
+
+313
+00:21:55,300 --> 00:21:58,524
+There is, you might say, also another technical disadvantage,
+
+314
+00:21:58,572 --> 00:22:02,012
+again. Which develops only in the course of time. To this
+
+315
+00:22:02,036 --> 00:22:04,000
+particular mechanical analogy.
+
+316
+00:22:06,260 --> 00:22:09,740
+And that is that when you
+
+317
+00:22:09,780 --> 00:22:13,180
+begin to rely more and
+
+318
+00:22:13,220 --> 00:22:13,800
+more.
+
+319
+00:22:15,870 --> 00:22:19,830
+Upon minute
+
+320
+00:22:19,910 --> 00:22:24,230
+and careful description of the world for
+
+321
+00:22:24,270 --> 00:22:27,622
+dealing with it. And that, of course, involves the reduction of the world to
+
+322
+00:22:27,646 --> 00:22:29,210
+describable units.
+
+323
+00:22:32,590 --> 00:22:35,050
+The world then becomes terribly complicated.
+
+324
+00:22:35,550 --> 00:22:40,294
+And it becomes increasingly difficult to keep track of
+
+325
+00:22:40,382 --> 00:22:43,290
+all the minute units that, that you've described.
+
+326
+00:22:44,030 --> 00:22:47,782
+Hence the difficulty of specialists in the various sciences communicating with
+
+327
+00:22:47,806 --> 00:22:51,750
+each other, and the difficulty of the scientific specialist in
+
+328
+00:22:51,790 --> 00:22:55,670
+communicating with the layman. The whole thing becomes
+
+329
+00:22:55,750 --> 00:22:57,570
+much too complicated to manage.
+
+330
+00:22:59,390 --> 00:23:04,070
+And this then means that the
+
+331
+00:23:04,110 --> 00:23:08,002
+more we know, the greater our skill
+
+332
+00:23:08,166 --> 00:23:11,850
+in managing the world as a mechanical
+
+333
+00:23:11,930 --> 00:23:15,610
+construct, the more
+
+334
+00:23:15,650 --> 00:23:18,954
+difficult it becomes to control, because it becomes
+
+335
+00:23:19,002 --> 00:23:22,890
+increasingly complex. We talk endlessly about the
+
+336
+00:23:22,930 --> 00:23:26,150
+increasing complexity of political,
+
+337
+00:23:26,690 --> 00:23:29,962
+social and economic affairs which
+
+338
+00:23:30,146 --> 00:23:33,710
+makes the problems of the world increasingly unintelligible
+
+339
+00:23:34,330 --> 00:23:38,470
+to even the average well educated citizen.
+
+340
+00:23:41,770 --> 00:23:45,150
+Now, it has been suggested that
+
+341
+00:23:46,090 --> 00:23:48,350
+the Western view,
+
+342
+00:23:49,450 --> 00:23:53,250
+nature as a construct, has in some ways done
+
+343
+00:23:53,290 --> 00:23:54,110
+its job,
+
+344
+00:23:57,210 --> 00:24:02,478
+and that from here on we need to
+
+345
+00:24:02,534 --> 00:24:06,318
+explore to a greater degree other
+
+346
+00:24:06,374 --> 00:24:10,450
+views. Perhaps the organic view of the Chinese,
+
+347
+00:24:12,710 --> 00:24:19,182
+wherein we
+
+348
+00:24:19,206 --> 00:24:23,198
+get a peculiar harmony of points of view with
+
+349
+00:24:23,254 --> 00:24:26,940
+our own sciences, biology, ecology and so
+
+350
+00:24:26,980 --> 00:24:30,428
+forth, as if somehow
+
+351
+00:24:30,524 --> 00:24:33,820
+this view had been tucked away in
+
+352
+00:24:33,860 --> 00:24:37,996
+a store cupboard, waiting for us
+
+353
+00:24:38,148 --> 00:24:41,692
+to be available at just the time when we
+
+354
+00:24:41,716 --> 00:24:42,680
+needed it.
+
+355
+00:24:46,820 --> 00:24:49,320
+The problem here is an entirely new one,
+
+356
+00:24:50,580 --> 00:24:55,808
+because we are so used to thinking of our problems
+
+357
+00:24:55,824 --> 00:25:00,240
+of controlling and understanding the world in
+
+358
+00:25:00,280 --> 00:25:03,940
+terms of the methods of mechanical science.
+
+359
+00:25:08,520 --> 00:25:09,900
+Not so long ago,
+
+360
+00:25:11,560 --> 00:25:15,472
+I was talking to Lynn White,
+
+361
+00:25:15,576 --> 00:25:18,100
+who used to be president of Mills College,
+
+362
+00:25:19,240 --> 00:25:23,230
+and he was saying that our academic world
+
+363
+00:25:23,850 --> 00:25:27,590
+values only three kinds of intelligence,
+
+364
+00:25:28,250 --> 00:25:31,762
+whereas he said there are many more. There are at least seven.
+
+365
+00:25:31,866 --> 00:25:35,538
+I don't remember what all the seven were, but he said the kinds
+
+366
+00:25:35,554 --> 00:25:39,750
+of intelligence that we value are first of all mnemonic,
+
+367
+00:25:40,330 --> 00:25:42,230
+which is the ability to remember,
+
+368
+00:25:42,890 --> 00:25:46,550
+computational intelligence, the ability to figure,
+
+369
+00:25:46,870 --> 00:25:50,238
+and verbal intelligence, the ability to read,
+
+370
+00:25:50,294 --> 00:25:54,930
+write and talk. But he said there is also social intelligence,
+
+371
+00:25:55,750 --> 00:25:58,530
+and there is also kinesthetic intelligence,
+
+372
+00:25:59,590 --> 00:26:03,150
+kind of intelligence, kinesthetic, in which we learn as
+
+373
+00:26:03,190 --> 00:26:07,630
+children to walk, to run, to throw and catch balls,
+
+374
+00:26:07,790 --> 00:26:11,150
+and to do all kinds of extremely complex and
+
+375
+00:26:11,190 --> 00:26:15,290
+very subtle actions without being able to describe
+
+376
+00:26:15,790 --> 00:26:19,010
+or count what we're doing.
+
+377
+00:26:21,230 --> 00:26:25,430
+Perhaps in handling far more complex
+
+378
+00:26:25,510 --> 00:26:30,930
+matters than catching balls or
+
+379
+00:26:31,390 --> 00:26:33,530
+skiing or riding bicycles,
+
+380
+00:26:34,350 --> 00:26:38,410
+we may have unknown resources of kinesthetic intelligence
+
+381
+00:26:39,710 --> 00:26:43,570
+for dealing with some of the problems that now face us.
+
+382
+00:26:46,990 --> 00:26:50,294
+Here is the germ of an idea which
+
+383
+00:26:50,382 --> 00:26:53,570
+Chinese culture and Far Eastern culture in general
+
+384
+00:26:53,950 --> 00:26:58,150
+suggest to us. Perhaps they themselves
+
+385
+00:26:58,230 --> 00:27:01,490
+have only dimly begun to explore these things.
+
+386
+00:27:02,670 --> 00:27:07,280
+But I think that it's in that direction that
+
+387
+00:27:07,320 --> 00:27:11,136
+the future of practical philosophy and government
+
+388
+00:27:11,208 --> 00:27:12,740
+of the world may lie.
+
+389
+00:27:19,000 --> 00:27:22,208
+Well, now, there are, as I said in the history of mankind,
+
+390
+00:27:22,304 --> 00:27:26,112
+three theories of nature. The first theory
+
+391
+00:27:26,176 --> 00:27:29,940
+is the Western theory, which is that nature
+
+392
+00:27:30,760 --> 00:27:34,650
+is a machine or an artifact.
+
+393
+00:27:37,310 --> 00:27:39,770
+We inherit this from the Hebrews,
+
+394
+00:27:41,470 --> 00:27:45,062
+who believed that nature was made
+
+395
+00:27:45,166 --> 00:27:48,454
+by God in somewhat the same way as a
+
+396
+00:27:48,462 --> 00:27:51,702
+potter makes a pot out of clay or a
+
+397
+00:27:51,726 --> 00:27:54,810
+carpenter makes a table out of wood.
+
+398
+00:27:55,150 --> 00:27:58,286
+It is not insignificant that Jesus is the son
+
+399
+00:27:58,318 --> 00:27:59,570
+of the carpenter.
+
+400
+00:28:01,270 --> 00:28:04,830
+Our tradition has been to look upon the
+
+401
+00:28:04,870 --> 00:28:07,490
+world as a construct.
+
+402
+00:28:09,510 --> 00:28:13,130
+And somebody knows how it was put together.
+
+403
+00:28:13,910 --> 00:28:16,990
+Somebody understands, and that is the
+
+404
+00:28:17,030 --> 00:28:20,130
+constructor, the architect, the Lord God.
+
+405
+00:28:22,070 --> 00:28:25,696
+But it so happened that in the 18th century,
+
+406
+00:28:25,888 --> 00:28:30,144
+Western thought began to change. They became
+
+407
+00:28:30,192 --> 00:28:33,680
+increasingly doubtful as to whether there was a
+
+408
+00:28:33,720 --> 00:28:37,380
+maker, whether there was a God.
+
+409
+00:28:37,720 --> 00:28:40,992
+But they continued to look upon the creation as an
+
+410
+00:28:41,016 --> 00:28:44,180
+artifact, as a machine.
+
+411
+00:28:44,520 --> 00:28:46,580
+And by the time of Newton,
+
+412
+00:28:47,400 --> 00:28:51,270
+people were explaining the world in terms of
+
+413
+00:28:51,310 --> 00:28:55,062
+mechanism. And we are still under the
+
+414
+00:28:55,086 --> 00:28:59,094
+influence of that idea. Because, after all, in things like Life magazine
+
+415
+00:28:59,142 --> 00:29:02,502
+and so on, when they give you an article
+
+416
+00:29:02,606 --> 00:29:05,210
+on human physiology,
+
+417
+00:29:06,190 --> 00:29:09,910
+they usually make drawings which show
+
+418
+00:29:09,950 --> 00:29:12,970
+the human being as a kind of mechanism,
+
+419
+00:29:14,110 --> 00:29:17,402
+as a sort of factory. And they show how the
+
+420
+00:29:17,426 --> 00:29:21,370
+peristaltic action carries the food in and how it's processed
+
+421
+00:29:21,450 --> 00:29:25,626
+by this organ and that organ as just as if a certain
+
+422
+00:29:25,698 --> 00:29:29,706
+product is fed into a factory cow at one end and it comes out canned
+
+423
+00:29:29,738 --> 00:29:33,130
+corned beef at the other. Just in such
+
+424
+00:29:33,170 --> 00:29:36,650
+a way the human is illustrated. And so too,
+
+425
+00:29:36,770 --> 00:29:40,426
+in some kinds of rather degraded medicine
+
+426
+00:29:40,458 --> 00:29:43,996
+that is now practiced. When you go to the hospital
+
+427
+00:29:44,148 --> 00:29:47,740
+for a medical examination, you are treated as a machine.
+
+428
+00:29:47,900 --> 00:29:51,292
+They process you. You're not a person. You are
+
+429
+00:29:51,316 --> 00:29:54,620
+put in a wheelchair immediately. Even if you look
+
+430
+00:29:54,660 --> 00:29:58,400
+perfectly healthy and can walk, nevertheless, they have to have you in this wheelchair,
+
+431
+00:29:58,900 --> 00:30:02,524
+and they put you through a process. And the heart specialist
+
+432
+00:30:02,572 --> 00:30:06,348
+looks only at your heart because he can't understand anything else. The Oto
+
+433
+00:30:06,364 --> 00:30:09,514
+rhino laryngologist, which. Which means an ear, nose and throat man,
+
+434
+00:30:09,602 --> 00:30:12,554
+looks at that section of you, and he doesn't know about anything else.
+
+435
+00:30:12,682 --> 00:30:16,266
+And maybe a psychiatrist takes a look at you, and goodness
+
+436
+00:30:16,298 --> 00:30:20,042
+knows what happens there, and so on and so on. Everybody looks at you from
+
+437
+00:30:20,066 --> 00:30:23,754
+their specialized point of view as if they were a bunch of mechanics examining
+
+438
+00:30:23,802 --> 00:30:27,290
+your automobile. Because, as I said
+
+439
+00:30:27,330 --> 00:30:30,794
+last night, we just asked for this
+
+440
+00:30:30,962 --> 00:30:35,380
+because most of us consider ourselves as chauffeurs
+
+441
+00:30:36,520 --> 00:30:40,272
+inside our bodies, which we own in the same way as you
+
+442
+00:30:40,296 --> 00:30:43,552
+own a car, and when it goes wrong, you take it to the mechanic to
+
+443
+00:30:43,576 --> 00:30:46,832
+fix it. You don't really identify
+
+444
+00:30:46,896 --> 00:30:50,300
+with your body, just as you don't really identify with your car.
+
+445
+00:30:52,040 --> 00:30:55,536
+So here is this whole theory of nature which has grown
+
+446
+00:30:55,568 --> 00:30:58,816
+up in the west as an artifact,
+
+447
+00:30:58,928 --> 00:31:02,122
+something made. Now,
+
+448
+00:31:02,146 --> 00:31:06,270
+let Me take a second theory of nature. This is an Indian theory,
+
+449
+00:31:08,050 --> 00:31:10,858
+East Indian nature,
+
+450
+00:31:10,954 --> 00:31:13,630
+not as an artifact, but as drama.
+
+451
+00:31:14,530 --> 00:31:18,378
+Basic to all Hindu thought is the idea that the world is
+
+452
+00:31:18,434 --> 00:31:21,946
+Maya. That is a Sanskrit word which
+
+453
+00:31:22,018 --> 00:31:24,350
+means many things. It means magic,
+
+454
+00:31:24,850 --> 00:31:27,190
+illusion, art,
+
+455
+00:31:28,400 --> 00:31:32,700
+play. All the world's a stage.
+
+456
+00:31:33,440 --> 00:31:36,792
+And in the Hindu idea there is the ultimate reality of
+
+457
+00:31:36,816 --> 00:31:40,552
+the universe is the Self, which they
+
+458
+00:31:40,576 --> 00:31:43,500
+call Brahman or Atman.
+
+459
+00:31:44,720 --> 00:31:48,380
+That's what there is, the Self,
+
+460
+00:31:48,800 --> 00:31:51,448
+Universal, eternal, boundless,
+
+461
+00:31:51,544 --> 00:31:55,318
+indescribable. And everything
+
+462
+00:31:55,374 --> 00:31:58,822
+that happens, happens on the self. Like you say,
+
+463
+00:31:58,926 --> 00:32:02,290
+it's on me. The drinks tonight are on me.
+
+464
+00:32:03,550 --> 00:32:06,890
+Or like we say, when you hear the radio,
+
+465
+00:32:07,470 --> 00:32:11,382
+it's on the speaker. You see everything you
+
+466
+00:32:11,406 --> 00:32:12,650
+hear on the radio.
+
+467
+00:32:14,350 --> 00:32:17,606
+Flutes, drums, human voices,
+
+468
+00:32:17,798 --> 00:32:21,094
+traffic noises, any imaginable sound.
+
+469
+00:32:21,222 --> 00:32:25,276
+All those sounds are vibrations of the diaphragm in the speaker.
+
+470
+00:32:25,468 --> 00:32:27,560
+But the radio doesn't tell you that.
+
+471
+00:32:28,660 --> 00:32:31,640
+The announcer doesn't come on and say every morning,
+
+472
+00:32:32,180 --> 00:32:35,600
+good morning, ladies and gentlemen, this is kqed.
+
+473
+00:32:36,660 --> 00:32:40,108
+The following sounds that you are going to hear are vibrations of
+
+474
+00:32:40,164 --> 00:32:43,628
+your the diaphragm in your speaker. And they're not
+
+475
+00:32:43,764 --> 00:32:47,804
+really human voices or musical
+
+476
+00:32:47,852 --> 00:32:51,500
+instruments, but just that, they never let you in on that.
+
+477
+00:32:53,800 --> 00:32:57,696
+And in exactly the same way the universe doesn't
+
+478
+00:32:57,728 --> 00:33:01,232
+let you in on the truth that all sense
+
+479
+00:33:01,296 --> 00:33:04,816
+experiences are vibrations
+
+480
+00:33:05,008 --> 00:33:08,400
+of the self, not just
+
+481
+00:33:08,440 --> 00:33:11,984
+yourself, but the self. And all of us
+
+482
+00:33:12,072 --> 00:33:16,074
+share this self in common because. Because it is pretending
+
+483
+00:33:16,122 --> 00:33:17,510
+to be all of us.
+
+484
+00:33:19,810 --> 00:33:22,842
+Brahman, the ultimate principle,
+
+485
+00:33:22,986 --> 00:33:25,150
+plays hide and seek eternally.
+
+486
+00:33:26,450 --> 00:33:30,154
+And he does it for unspeakably long periods of time. The Hindus measure
+
+487
+00:33:30,202 --> 00:33:34,138
+time in what is called a Kalpa K, a LPA.
+
+488
+00:33:34,234 --> 00:33:37,030
+That's 4,320,000 years.
+
+489
+00:33:37,570 --> 00:33:41,230
+Don't take this seriously. It's not meant to be taken literally,
+
+490
+00:33:41,650 --> 00:33:45,770
+but just for an unspeakably long time. The Brahman,
+
+491
+00:33:45,930 --> 00:33:50,378
+the self, pretends that it's lost and
+
+492
+00:33:50,434 --> 00:33:54,186
+is us. And all our adventures and all our troubles
+
+493
+00:33:54,298 --> 00:33:57,990
+and all our agonies and tragedies, it gets mixed up in them.
+
+494
+00:33:59,090 --> 00:34:03,258
+Then, after the period of 4,320,000 years has elapsed,
+
+495
+00:34:03,354 --> 00:34:06,724
+there is a catastrophe. The universe
+
+496
+00:34:06,772 --> 00:34:09,940
+is destroyed in fire. And after
+
+497
+00:34:09,980 --> 00:34:12,740
+that, the Brahmin wakes up and says,
+
+498
+00:34:12,780 --> 00:34:15,972
+well, good crazy. What, what an adventure that
+
+499
+00:34:15,996 --> 00:34:18,800
+was. He wipes the sweat off his brow and says,
+
+500
+00:34:19,660 --> 00:34:23,848
+let's rest a while. So for another 4,000,320 000
+
+501
+00:34:23,894 --> 00:34:27,508
+years, the Divine self rests and knows who it is.
+
+502
+00:34:27,644 --> 00:34:30,580
+It's me. Then it says, well,
+
+503
+00:34:30,620 --> 00:34:34,146
+this is rather boring. Let's get going again. Let's get mixed
+
+504
+00:34:34,178 --> 00:34:37,710
+up. And it does it in a very strange way because
+
+505
+00:34:38,170 --> 00:34:42,082
+the way the Hindus time it, the first period of
+
+506
+00:34:42,266 --> 00:34:45,682
+getting mixed up, getting lost, is beautiful. That's the
+
+507
+00:34:45,706 --> 00:34:49,634
+longest period. Everything's right,
+
+508
+00:34:49,722 --> 00:34:53,282
+it's just life is glorious. Then it has the next period in which
+
+509
+00:34:53,306 --> 00:34:57,026
+things get a little wonky. Something is vaguely
+
+510
+00:34:57,058 --> 00:35:00,110
+out of order that doesn't last so long.
+
+511
+00:35:00,730 --> 00:35:04,114
+Then the next period, the third, is when good and evil
+
+512
+00:35:04,162 --> 00:35:05,590
+are equally balanced.
+
+513
+00:35:07,290 --> 00:35:10,482
+And that's still not so long. Finally comes the
+
+514
+00:35:10,506 --> 00:35:13,810
+shortest period when everything bad triumphs and
+
+515
+00:35:13,850 --> 00:35:16,190
+the whole thing blows up and we begin all over again.
+
+516
+00:35:17,370 --> 00:35:20,658
+We're supposed to be living in that now. It's what's
+
+517
+00:35:20,674 --> 00:35:24,348
+called the Kali Yuga, the Age of
+
+518
+00:35:24,404 --> 00:35:28,413
+Darkness. And it began on Friday, February 23,
+
+519
+00:35:28,613 --> 00:35:34,172
+3123 BC and it
+
+520
+00:35:34,196 --> 00:35:35,960
+has 5,000 years to run.
+
+521
+00:35:37,460 --> 00:35:40,720
+But as it goes on, time gets faster, so don't worry.
+
+522
+00:35:52,190 --> 00:35:55,370
+So you see, that's a theory of nature as a drama,
+
+523
+00:35:55,870 --> 00:35:59,414
+it's a play. Now, there's a third theory
+
+524
+00:35:59,462 --> 00:36:02,010
+of nature which is Chinese,
+
+525
+00:36:03,150 --> 00:36:05,130
+and this is very interesting.
+
+526
+00:36:07,710 --> 00:36:11,190
+The Chinese word for nature they
+
+527
+00:36:11,230 --> 00:36:14,644
+call zhang.
+
+528
+00:36:14,722 --> 00:36:17,824
+And this expression means of itself.
+
+529
+00:36:17,952 --> 00:36:21,408
+So what happens of
+
+530
+00:36:21,464 --> 00:36:25,008
+itself? Or we might say
+
+531
+00:36:25,064 --> 00:36:29,056
+spontaneity. It almost means
+
+532
+00:36:29,128 --> 00:36:33,088
+automatic, because automatic is what is self moving.
+
+533
+00:36:33,264 --> 00:36:37,460
+Only we associate the word automatic with machinery.
+
+534
+00:36:38,760 --> 00:36:41,930
+But what is
+
+535
+00:36:41,970 --> 00:36:45,450
+of so of itself is associated in the Chinese mind not with
+
+536
+00:36:45,490 --> 00:36:48,430
+machinery, but with biology.
+
+537
+00:36:49,650 --> 00:36:52,922
+Your hair grows by itself, you don't have to
+
+538
+00:36:52,946 --> 00:36:56,154
+think how to grow it. Your heart beats by itself.
+
+539
+00:36:56,282 --> 00:36:59,270
+You don't have to make up your mind how to beat it.
+
+540
+00:36:59,970 --> 00:37:03,690
+That's what they mean by nature. The poem
+
+541
+00:37:03,770 --> 00:37:07,306
+says, sitting quietly, doing nothing. Spring comes
+
+542
+00:37:07,458 --> 00:37:09,390
+and grass grows of itself.
+
+543
+00:37:11,170 --> 00:37:14,362
+So their principle of nature is called a dao.
+
+544
+00:37:14,506 --> 00:37:18,314
+Tao pronounced dao in the Mandarin
+
+545
+00:37:18,362 --> 00:37:22,190
+dialect, Tao in the Shanghai dialect,
+
+546
+00:37:23,250 --> 00:37:27,470
+to in the Cantonese dialect. Take your choice.
+
+547
+00:37:29,250 --> 00:37:33,150
+Dao means the course of nature.
+
+548
+00:37:34,670 --> 00:37:38,182
+And Lao Tzu, who was a philosopher who
+
+549
+00:37:38,206 --> 00:37:42,250
+lived little later than 400 B.C.
+
+550
+00:37:42,750 --> 00:37:46,758
+wrote a book about the dao. And he said the dao
+
+551
+00:37:46,854 --> 00:37:50,090
+which can be spoken is not the eternal dao.
+
+552
+00:37:50,670 --> 00:37:54,230
+You can't describe it. He said,
+
+553
+00:37:54,270 --> 00:37:57,690
+the principle of the dao is spontaneity.
+
+554
+00:37:58,430 --> 00:38:02,022
+He said, the great Dao flows everywhere, both to the
+
+555
+00:38:02,046 --> 00:38:05,678
+left and to the right. It loves and nourishes all things,
+
+556
+00:38:05,734 --> 00:38:09,934
+but does not lord it over them. It accomplishes merits
+
+557
+00:38:10,062 --> 00:38:12,010
+and lays no claim to them.
+
+558
+00:38:14,550 --> 00:38:17,982
+So there is a very great difference between the Chinese
+
+559
+00:38:18,046 --> 00:38:21,454
+idea of dao as the informing
+
+560
+00:38:21,502 --> 00:38:25,214
+principle of nature and the Judeo Christian
+
+561
+00:38:25,262 --> 00:38:28,414
+idea of God as nature's lord
+
+562
+00:38:28,462 --> 00:38:32,184
+and master. Because the Dao
+
+563
+00:38:32,312 --> 00:38:35,260
+does not act as a boss.
+
+564
+00:38:36,800 --> 00:38:40,680
+In the Chinese philosophy of nature, nature has
+
+565
+00:38:40,800 --> 00:38:42,060
+no boss.
+
+566
+00:38:46,720 --> 00:38:50,184
+There is no principle
+
+567
+00:38:50,312 --> 00:38:54,024
+that forces things to behave the way they do. It is
+
+568
+00:38:54,032 --> 00:38:57,460
+a comparison completely democratic theory of nature.
+
+569
+00:39:00,280 --> 00:39:03,660
+Do you mind if I talk for a while about something I love
+
+570
+00:39:04,920 --> 00:39:08,400
+about water and the ocean? Ever since
+
+571
+00:39:08,440 --> 00:39:11,552
+I can remember anything at all, the light,
+
+572
+00:39:11,736 --> 00:39:15,232
+the smell, the sound and motion of the sea has
+
+573
+00:39:15,256 --> 00:39:16,580
+been pure magic.
+
+574
+00:39:18,680 --> 00:39:23,910
+Even the mere intimation of its perfect gulls
+
+575
+00:39:23,990 --> 00:39:25,690
+flying a little way inland,
+
+576
+00:39:27,070 --> 00:39:30,790
+the quality of light in the sky beyond, hills which
+
+577
+00:39:30,830 --> 00:39:34,102
+screen it from view, the lowing of
+
+578
+00:39:34,126 --> 00:39:37,942
+fog horns in the night. If ever I have to get away from it
+
+579
+00:39:37,966 --> 00:39:41,334
+all, and in the words of a Chinese
+
+580
+00:39:41,382 --> 00:39:44,570
+poet, wash all the rungs of life from my pores,
+
+581
+00:39:46,030 --> 00:39:49,354
+there's simply nothing better. And to climb out onto a
+
+582
+00:39:49,362 --> 00:39:52,970
+rock and sit for hours with nothing in sight but sea and
+
+583
+00:39:53,010 --> 00:39:56,954
+sky. Although the rhythm of the waves beats
+
+584
+00:39:57,002 --> 00:40:00,874
+a kind of time, it's not clock or calendar
+
+585
+00:40:00,922 --> 00:40:05,162
+time. It has no urgency. It's timeless
+
+586
+00:40:05,226 --> 00:40:09,402
+time. Because I
+
+587
+00:40:09,426 --> 00:40:12,890
+know I'm listening to a rhythm which has been
+
+588
+00:40:12,930 --> 00:40:15,030
+just the same for millions of years.
+
+589
+00:40:17,270 --> 00:40:21,410
+And it takes you out of the world of relentlessly ticking clocks.
+
+590
+00:40:22,470 --> 00:40:25,650
+Clocks, for some reason or other, always seem to be marching.
+
+591
+00:40:26,710 --> 00:40:29,650
+And armies never march to anything but doom.
+
+592
+00:40:30,790 --> 00:40:33,890
+But there's no marching rhythm. Motion waves.
+
+593
+00:40:35,110 --> 00:40:37,010
+It harmonizes with the breath.
+
+594
+00:40:38,470 --> 00:40:40,410
+It does not count our days.
+
+595
+00:40:41,920 --> 00:40:45,624
+Its pulse is not in the stingy
+
+596
+00:40:45,672 --> 00:40:49,020
+spirit of measuring, of marking out how much still remains.
+
+597
+00:40:51,280 --> 00:40:53,260
+It's the breathing of eternity.
+
+598
+00:40:55,360 --> 00:40:58,140
+Especially early in the morning and towards evening,
+
+599
+00:40:58,880 --> 00:41:02,140
+when the distinction of sky and water becomes uncertain,
+
+600
+00:41:03,840 --> 00:41:07,288
+when the whole of space becomes opalescent, the sort
+
+601
+00:41:07,304 --> 00:41:11,356
+of pearly lips luminous grey. And the rising or setting
+
+602
+00:41:11,468 --> 00:41:14,560
+moon, this straw yellow,
+
+603
+00:41:15,860 --> 00:41:19,040
+blessed with the white cries of gulls
+
+604
+00:41:19,940 --> 00:41:23,612
+and with the patterns of masts and ropes and boats at
+
+605
+00:41:23,636 --> 00:41:26,812
+anchor, which put me in
+
+606
+00:41:26,836 --> 00:41:29,320
+mine with landfills gone that way,
+
+607
+00:41:31,140 --> 00:41:33,680
+and of all the voyages of which one is dream.
+
+608
+00:41:35,560 --> 00:41:38,540
+But under the surface of both sky and water,
+
+609
+00:41:42,600 --> 00:41:44,220
+there's the grim business.
+
+610
+00:41:52,040 --> 00:41:55,780
+Men and birds against fish, fish against fish,
+
+611
+00:41:56,680 --> 00:42:00,762
+the tortuous process of life continuing by
+
+612
+00:42:00,786 --> 00:42:03,830
+the painful transformation of one form into another.
+
+613
+00:42:05,330 --> 00:42:08,922
+To preachers who don't anticipate and
+
+614
+00:42:08,946 --> 00:42:12,250
+reflect imaginatively upon this holocaust of
+
+615
+00:42:12,290 --> 00:42:16,430
+eating and being eaten, it's perhaps not so terrible.
+
+616
+00:42:16,850 --> 00:42:20,474
+But poor man skillful
+
+617
+00:42:20,522 --> 00:42:24,298
+beyond all other animals. By being able to sink in
+
+618
+00:42:24,354 --> 00:42:28,468
+time and knowing the future, he dies before
+
+619
+00:42:28,524 --> 00:42:32,116
+he's dead. He shrinks from the shark's teeth before they bite
+
+620
+00:42:32,148 --> 00:42:35,556
+him. He dreads
+
+621
+00:42:35,588 --> 00:42:39,204
+the alien germ long, long before its banquet
+
+622
+00:42:39,252 --> 00:42:43,080
+begins. Here is a Gull
+
+623
+00:42:44,780 --> 00:42:47,320
+that has picked a crab from a tide pool.
+
+624
+00:42:49,260 --> 00:42:52,960
+Sprawled now upon the sand, the crab
+
+625
+00:42:53,040 --> 00:42:56,784
+shrinks from the walls of its shell, resounding to
+
+626
+00:42:56,792 --> 00:42:59,540
+the tap, tap, tap of the gull's beak.
+
+627
+00:42:59,880 --> 00:43:03,392
+Who's that knocking at my door? I suppose the
+
+628
+00:43:03,416 --> 00:43:06,980
+shell of the crab, the clam or the muttle
+
+629
+00:43:07,400 --> 00:43:09,460
+is the boundary of its universe.
+
+630
+00:43:11,240 --> 00:43:15,440
+To put ourselves in their position, we should have to imagine a knocking sound,
+
+631
+00:43:15,520 --> 00:43:19,270
+louder and louder, that doesn't come from anywhere in particular
+
+632
+00:43:20,210 --> 00:43:23,230
+from the door or the walls or the ceiling or the floor.
+
+633
+00:43:24,130 --> 00:43:26,670
+Think of a knocking that comes from everywhere,
+
+634
+00:43:27,250 --> 00:43:30,830
+that beats against the boundaries of space and consciousness,
+
+635
+00:43:31,890 --> 00:43:34,954
+that comes as the intrusion of an utterly unknown
+
+636
+00:43:35,002 --> 00:43:37,990
+dimension into our own familiar world.
+
+637
+00:43:38,770 --> 00:43:41,350
+Let me in. Let me in.
+
+638
+00:43:41,810 --> 00:43:44,922
+Surrender to this agony and you will be
+
+639
+00:43:44,946 --> 00:43:48,442
+transformed into me. Dying to yourself.
+
+640
+00:43:48,506 --> 00:43:52,250
+You will become alive as me. There's no way of getting
+
+641
+00:43:52,290 --> 00:43:56,314
+around it is that the gull isn't
+
+642
+00:43:56,362 --> 00:43:59,882
+rapacious or greedy. It's just that he's being alive at
+
+643
+00:43:59,906 --> 00:44:02,510
+all is the same thing as eating crabs.
+
+644
+00:44:05,810 --> 00:44:09,800
+Sea birds are transformations of fish. Men are transformations of
+
+645
+00:44:09,930 --> 00:44:12,000
+wheat, chickens and steers.
+
+646
+00:44:14,980 --> 00:44:18,428
+To object to this inseparability of pleasure and
+
+647
+00:44:18,484 --> 00:44:21,000
+pain, life and death,
+
+648
+00:44:22,340 --> 00:44:26,012
+is simply to object to existence. But of course,
+
+649
+00:44:26,196 --> 00:44:29,000
+we cannot help objecting when the time comes.
+
+650
+00:44:29,780 --> 00:44:32,880
+Objecting to pain is pain,
+
+651
+00:44:33,860 --> 00:44:37,040
+so far as we know. The gull and the fish don't philosophize.
+
+652
+00:44:38,170 --> 00:44:42,150
+They enjoy life when they're eating it and hate it when being eaten.
+
+653
+00:44:42,890 --> 00:44:46,562
+They don't reflect upon the process as a whole and say how rough it
+
+654
+00:44:46,586 --> 00:44:49,906
+is that we have to work so hard for a living. Or it's
+
+655
+00:44:49,938 --> 00:44:52,790
+just hell having to watch out all the time for those girls.
+
+656
+00:44:54,810 --> 00:44:58,658
+I'm sure that in their world this is something that just goes along with life,
+
+657
+00:44:58,714 --> 00:45:02,110
+like having eyes or feet. But man,
+
+658
+00:45:02,410 --> 00:45:06,010
+with his astonishing ability to stand aside from him himself and think
+
+659
+00:45:06,050 --> 00:45:09,434
+about himself. In short, to comment
+
+660
+00:45:09,522 --> 00:45:13,402
+on life. Man has done something which confuses his own
+
+661
+00:45:13,426 --> 00:45:15,150
+existence down to its roots.
+
+662
+00:45:17,010 --> 00:45:20,458
+Perhaps the ghastly mistake was just that
+
+663
+00:45:20,514 --> 00:45:24,346
+step in man's evolution which made it possible
+
+664
+00:45:24,418 --> 00:45:28,190
+for him to comment, to reflect upon life as a whole.
+
+665
+00:45:29,570 --> 00:45:33,390
+In being able to stand aside from life and think
+
+666
+00:45:33,430 --> 00:45:36,750
+about it, he put himself outside it and found
+
+667
+00:45:36,790 --> 00:45:37,730
+it alien.
+
+668
+00:45:40,150 --> 00:45:44,030
+Perhaps thinking about the world and objecting to
+
+669
+00:45:44,070 --> 00:45:48,370
+its whole principle are simply two aspects of the same mechanism.
+
+670
+00:45:49,910 --> 00:45:53,502
+But aren't there also times when we
+
+671
+00:45:53,526 --> 00:45:57,170
+speak of something that we know as a subject,
+
+672
+00:45:58,000 --> 00:46:01,180
+the subject of this book, the subject I am now studying?
+
+673
+00:46:01,840 --> 00:46:05,304
+Would it be possible to subject to life instead of objecting
+
+674
+00:46:05,352 --> 00:46:08,584
+to it? Now,
+
+675
+00:46:08,592 --> 00:46:11,416
+if the Gals and the fish don't philosophize.
+
+676
+00:46:11,608 --> 00:46:15,368
+They have no consciousness of life being either good as a whole or bad
+
+677
+00:46:15,424 --> 00:46:19,176
+as a whole. So when we philosophize
+
+678
+00:46:19,208 --> 00:46:23,060
+and pity the poor fish, that's just our problem.
+
+679
+00:46:23,710 --> 00:46:25,450
+From its own standpoint,
+
+680
+00:46:26,910 --> 00:46:31,030
+the world of animals and insects doesn't find itself
+
+681
+00:46:31,110 --> 00:46:32,450
+problematic at all.
+
+682
+00:46:35,470 --> 00:46:38,130
+There's not the slightest evidence to suggest it.
+
+683
+00:46:39,550 --> 00:46:42,810
+I'm quite sure they don't lecture each other about their duties.
+
+684
+00:46:43,550 --> 00:46:46,250
+Or worry about where they're going when they're dead.
+
+685
+00:46:47,710 --> 00:46:50,854
+Isn't it then, rather an enormous
+
+686
+00:46:50,902 --> 00:46:54,310
+relief for us men to see that the
+
+687
+00:46:54,350 --> 00:46:57,370
+plant and animal world is no problem to itself.
+
+688
+00:46:57,950 --> 00:47:01,686
+And that we are wasting intellectual energy in making
+
+689
+00:47:01,758 --> 00:47:05,302
+moral judgments about it? We seem
+
+690
+00:47:05,326 --> 00:47:08,694
+to feel that the thing which
+
+691
+00:47:08,782 --> 00:47:12,890
+knows, that it knows is one's essential self.
+
+692
+00:47:13,310 --> 00:47:17,498
+Our personal identity is
+
+693
+00:47:17,554 --> 00:47:20,910
+entirely on the side of the commentator.
+
+694
+00:47:22,930 --> 00:47:26,794
+I think our difficulty is that our consciousness
+
+695
+00:47:26,842 --> 00:47:30,682
+is too superficial. As if all our sensation were
+
+696
+00:47:30,706 --> 00:47:33,470
+in the tips of the fingers and not in the palm.
+
+697
+00:47:35,170 --> 00:47:38,442
+Are we misled by the fact that we move freely on
+
+698
+00:47:38,466 --> 00:47:42,042
+the earth. And aren't rooted to it in the
+
+699
+00:47:42,066 --> 00:47:45,180
+same way as trees to the ground, ground and fingers to the hand?
+
+700
+00:47:46,040 --> 00:47:49,616
+Now we know that the atom, molecule,
+
+701
+00:47:49,728 --> 00:47:53,472
+cell of any particular organism is what it
+
+702
+00:47:53,496 --> 00:47:56,960
+is by virtue of its place and
+
+703
+00:47:57,000 --> 00:48:00,180
+its membership in the pattern of the whole.
+
+704
+00:48:02,920 --> 00:48:06,180
+So I think this is why I love the ocean.
+
+705
+00:48:06,920 --> 00:48:10,010
+It's the most difficult part
+
+706
+00:48:10,050 --> 00:48:14,870
+of nature to mess up with
+
+707
+00:48:15,250 --> 00:48:16,270
+emblems,
+
+708
+00:48:18,130 --> 00:48:22,350
+symptoms of man's dissociated consciousness.
+
+709
+00:48:23,650 --> 00:48:27,050
+It's an environment in
+
+710
+00:48:27,090 --> 00:48:29,870
+which the awareness of our roots can awaken.
+
+711
+00:48:31,170 --> 00:48:35,050
+In which space, so real because
+
+712
+00:48:35,090 --> 00:48:39,162
+of the light and picture color, can be seen to
+
+713
+00:48:39,186 --> 00:48:41,950
+be joining things instead of separating.
+
+714
+00:48:42,610 --> 00:48:46,330
+And I've just discovered that that
+
+715
+00:48:46,370 --> 00:48:49,470
+knocking on the wall of space and consciousness.
+
+716
+00:48:52,290 --> 00:48:54,590
+Was my own feeling.
+
+717
+00:49:01,340 --> 00:49:27,810
+Sa foreign.
+
+718
+00:49:32,510 --> 00:49:36,358
+Let's consider the power of holding your deepest aspirations close
+
+719
+00:49:36,414 --> 00:49:39,782
+to your heart. There's something almost sacred in
+
+720
+00:49:39,806 --> 00:49:43,286
+the things we dream of and long for. Aspirations aren't
+
+721
+00:49:43,318 --> 00:49:46,790
+just wishes. They're reflections of the core of who we are and who
+
+722
+00:49:46,830 --> 00:49:50,454
+we yearn to be. They're not defined by anyone else's
+
+723
+00:49:50,502 --> 00:49:54,448
+vision of success or happiness. They are intimate parts
+
+724
+00:49:54,464 --> 00:49:58,512
+of our inner worlds. Shaped by our unique experiences,
+
+725
+00:49:58,656 --> 00:50:01,540
+values and the depths of our imagination.
+
+726
+00:50:02,600 --> 00:50:06,592
+When you keep those aspirations protected, you create a
+
+727
+00:50:06,616 --> 00:50:10,192
+space that is entirely yours, untouched by
+
+728
+00:50:10,216 --> 00:50:14,256
+the expectations or judgments of others. This isn't
+
+729
+00:50:14,288 --> 00:50:17,648
+about secrecy. It's about preserving the purity of something
+
+730
+00:50:17,704 --> 00:50:19,180
+that's deeply personal.
+
+731
+00:50:20,530 --> 00:50:23,882
+Imagine a delicate plant that needs the right conditions
+
+732
+00:50:23,946 --> 00:50:27,258
+to grow. Too much exposure, too much handling.
+
+733
+00:50:27,434 --> 00:50:29,070
+And it doesn't thrive.
+
+734
+00:50:29,970 --> 00:50:33,946
+Similarly, sharing our dreams too openly can sometimes expose
+
+735
+00:50:33,978 --> 00:50:38,030
+them to influences that pull us away from their true essence.
+
+736
+00:50:38,930 --> 00:50:43,130
+Sometimes, well meaning people can't help but impose their own fears
+
+737
+00:50:43,210 --> 00:50:46,000
+or limitations onto what you're trying to create.
+
+738
+00:50:46,620 --> 00:50:49,860
+Maybe they don't see your vision as clearly as you do.
+
+739
+00:50:49,980 --> 00:50:54,228
+Or perhaps they don't understand the journey you're on. They might
+
+740
+00:50:54,284 --> 00:50:57,412
+suggest safer routes, smaller goals,
+
+741
+00:50:57,476 --> 00:51:01,092
+or more predictable outcomes because they're looking at it through their own
+
+742
+00:51:01,116 --> 00:51:05,412
+lens, not yours. Their input, though often loving,
+
+743
+00:51:05,476 --> 00:51:08,836
+can create clouds around your vision, making it
+
+744
+00:51:08,908 --> 00:51:11,620
+harder for you to see where you truly want to go.
+
+745
+00:51:12,480 --> 00:51:16,360
+There's a delicate strength in letting your aspirations live in this
+
+746
+00:51:16,400 --> 00:51:20,392
+quiet space within yourself. When you don't feel pressured to
+
+747
+00:51:20,416 --> 00:51:24,472
+explain them, defend them, or justify them, you have more freedom to
+
+748
+00:51:24,496 --> 00:51:28,040
+explore them fully, to play with them, and to see where
+
+749
+00:51:28,080 --> 00:51:32,072
+they lead without interference. You are not constantly
+
+750
+00:51:32,136 --> 00:51:36,024
+having to reframe your dreams to fit someone else's understanding
+
+751
+00:51:36,072 --> 00:51:39,750
+in. Instead, you're creating them according to your own truth.
+
+752
+00:51:40,090 --> 00:51:43,154
+This inner freedom, this privacy,
+
+753
+00:51:43,282 --> 00:51:46,994
+lets your aspirations grow more authentically without
+
+754
+00:51:47,082 --> 00:51:50,150
+bending to outside opinions or expectations.
+
+755
+00:51:51,370 --> 00:51:55,442
+And here's another thing. There's incredible power in mystery when
+
+756
+00:51:55,466 --> 00:51:59,122
+you keep a dream or goal private. It has room to develop and
+
+757
+00:51:59,146 --> 00:52:02,830
+develop and evolve without the weight of outside science scrutiny.
+
+758
+00:52:03,490 --> 00:52:06,970
+You can experiment, make mistakes, and grow in ways that might
+
+759
+00:52:07,010 --> 00:52:10,790
+not make sense to others, but are perfectly right for you. Right for you?
+
+760
+00:52:11,410 --> 00:52:14,986
+By giving yourself this space, you're less likely to be swayed
+
+761
+00:52:15,018 --> 00:52:19,050
+or discouraged by outside opinions because the dream belongs to
+
+762
+00:52:19,090 --> 00:52:23,306
+you, and only you fully understand its purpose and importance.
+
+763
+00:52:23,498 --> 00:52:27,034
+It's like nurturing a hidden spark. You tend
+
+764
+00:52:27,082 --> 00:52:30,314
+to it carefully, knowing that in time, it will become a fire
+
+765
+00:52:30,402 --> 00:52:34,442
+all its own, bright enough to stand on its own without anyone else's
+
+766
+00:52:34,506 --> 00:52:38,666
+validation. By keeping your aspirations
+
+767
+00:52:38,778 --> 00:52:42,470
+close, you're also choosing where to invest your energy.
+
+768
+00:52:43,890 --> 00:52:47,242
+Sometimes the act of explaining your dreams or defending them
+
+769
+00:52:47,266 --> 00:52:50,906
+to others can drain you. This energy is better
+
+770
+00:52:50,978 --> 00:52:54,026
+spent fueling the journey itself, taking steps,
+
+771
+00:52:54,138 --> 00:52:56,520
+learning, adjusting and growing.
+
+772
+00:52:57,100 --> 00:53:00,468
+Imagine carrying a precious treasure. You wouldn't stop every
+
+773
+00:53:00,524 --> 00:53:03,880
+few steps to show it off. You'd keep moving,
+
+774
+00:53:04,460 --> 00:53:08,004
+focused on the journey itself, knowing that you're headed
+
+775
+00:53:08,052 --> 00:53:11,268
+somewhere significant. By holding back
+
+776
+00:53:11,324 --> 00:53:14,292
+from sharing, you keep your energy intact,
+
+777
+00:53:14,436 --> 00:53:16,640
+fully available for the road ahead.
+
+778
+00:53:17,580 --> 00:53:21,738
+And perhaps most importantly, by holding your aspirations close,
+
+779
+00:53:21,874 --> 00:53:24,510
+you give yourself the gift of adaptability.
+
+780
+00:53:25,490 --> 00:53:28,810
+If you share a dream too early, it can start to feel set
+
+781
+00:53:28,850 --> 00:53:32,870
+in stone, almost as though you're locked into that version of it.
+
+782
+00:53:33,170 --> 00:53:36,618
+But when it's just between you and yourself, it can shift and
+
+783
+00:53:36,674 --> 00:53:40,170
+Change, you are free to adjust it as you learn more
+
+784
+00:53:40,210 --> 00:53:43,626
+about yourself, as you encounter new experiences,
+
+785
+00:53:43,738 --> 00:53:47,508
+as you discover new possibilities. This flexibility
+
+786
+00:53:47,604 --> 00:53:51,908
+is essential because life is constantly evolving and so are we.
+
+787
+00:53:52,044 --> 00:53:55,620
+What felt right at one point may need adjustment as we grow and
+
+788
+00:53:55,660 --> 00:53:59,348
+change. And by keeping your aspirations close, you allow
+
+789
+00:53:59,404 --> 00:54:03,400
+them to be living, breathing things rather than fixed destinations.
+
+790
+00:54:04,700 --> 00:54:08,388
+In this way, your aspirations become a source of strength,
+
+791
+00:54:08,564 --> 00:54:12,010
+A quiet but powerful force that guides you forward.
+
+792
+00:54:12,180 --> 00:54:16,010
+They're like a compass, one that points you toward your true north.
+
+793
+00:54:16,710 --> 00:54:20,782
+And every time you make a choice that honors that inner direction,
+
+794
+00:54:20,926 --> 00:54:24,574
+that supports that quiet dream, you're reinforcing
+
+795
+00:54:24,622 --> 00:54:27,410
+a foundation of trust within yourself.
+
+796
+00:54:28,390 --> 00:54:32,010
+You're saying, I trust myself to know what's right for me.
+
+797
+00:54:32,310 --> 00:54:36,398
+I trust myself to go at my own pace, to make my own decisions,
+
+798
+00:54:36,494 --> 00:54:39,680
+and to create a path that true to who I am.
+
+799
+00:54:40,700 --> 00:54:44,280
+Keeping your aspirations private isn't about isolation.
+
+800
+00:54:44,860 --> 00:54:48,196
+It's about nurturing a sense of independence and inner
+
+801
+00:54:48,228 --> 00:54:51,160
+peace that doesn't rely on external approval.
+
+802
+00:54:51,980 --> 00:54:54,996
+When the time comes and you feel ready to share,
+
+803
+00:54:55,148 --> 00:54:58,852
+your aspirations will be so deeply rooted that they won't be
+
+804
+00:54:58,876 --> 00:55:01,320
+easily shaken by the winds of opinion.
+
+805
+00:55:01,740 --> 00:55:05,680
+There'll be a part of you fully formed, able to
+
+806
+00:55:05,720 --> 00:55:09,088
+stand strong in the light of day. But until then,
+
+807
+00:55:09,144 --> 00:55:13,520
+you hold them close, allowing them the space to grow and unfold naturally,
+
+808
+00:55:13,680 --> 00:55:16,420
+free from the weight of others expectations.
+
+809
+00:55:18,040 --> 00:55:21,248
+In the end, the choice to keep our deepest aspirations
+
+810
+00:55:21,344 --> 00:55:25,392
+close is a choice to honor ourselves, to cultivate a
+
+811
+00:55:25,416 --> 00:55:29,120
+life guided by inner truth. It's a reminder that
+
+812
+00:55:29,160 --> 00:55:33,366
+not everything has to be shared to be real or validated, to be worthy.
+
+813
+00:55:33,558 --> 00:55:37,930
+Sometimes the most powerful journeys are the ones we take quietly,
+
+814
+00:55:38,270 --> 00:55:41,970
+with a sense of reverence for the unique path we're on.
+
+815
+00:55:42,430 --> 00:55:46,070
+And when we allow ourselves this space, we come to realize that
+
+816
+00:55:46,110 --> 00:55:50,150
+our dreams are not defined by others perceptions or expectations.
+
+817
+00:55:50,230 --> 00:55:55,190
+They are shaped by our own courage, commitment and
+
+818
+00:55:55,230 --> 00:55:58,598
+clarity. So hold your dreams close.
+
+819
+00:55:58,654 --> 00:56:02,472
+Let them grow undisturbed. When the time comes, they'll be
+
+820
+00:56:02,496 --> 00:56:06,056
+ready to shine in a way that is authentic and unshakable.
+
+821
+00:56:06,248 --> 00:56:09,720
+Until then, keep nurturing that spark, knowing that you
+
+822
+00:56:09,760 --> 00:56:13,192
+are on a path of your own making. One that will lead
+
+823
+00:56:13,216 --> 00:56:15,460
+you exactly where you're meant to go.
+
+824
+00:56:16,560 --> 00:56:20,328
+Let's talk about the value of keeping some of our vulnerabilities
+
+825
+00:56:20,424 --> 00:56:23,928
+to ourselves. Now when I say vulnerabilities,
+
+826
+00:56:24,024 --> 00:56:27,924
+I don't mean hiding away parts of who we are or pretending
+
+827
+00:56:27,972 --> 00:56:29,680
+that we're something we're not.
+
+828
+00:56:30,300 --> 00:56:33,428
+Vulnerabilities are the tender places within us,
+
+829
+00:56:33,484 --> 00:56:37,300
+the parts of ourselves that are sensitive to the world and because
+
+830
+00:56:37,340 --> 00:56:40,852
+of that, they deserve care, attention. These are
+
+831
+00:56:40,876 --> 00:56:44,612
+the things that might evoke a strong emotional reaction if exposed
+
+832
+00:56:44,676 --> 00:56:48,120
+too openly. Our doubts, our fears, our uncertainties.
+
+833
+00:56:48,700 --> 00:56:52,244
+These are the parts that, when shared too freely,
+
+834
+00:56:52,372 --> 00:56:57,040
+can sometimes lead to misunderstandings, misjudgment, or even misuse.
+
+835
+00:56:58,180 --> 00:57:02,120
+We live in a world that tells us to share, to be open,
+
+836
+00:57:02,420 --> 00:57:05,676
+to let others in. And in many ways,
+
+837
+00:57:05,708 --> 00:57:09,852
+that's a beautiful thing. Connection and openness are
+
+838
+00:57:09,876 --> 00:57:13,820
+what make us human. But there's also a quiet wisdom in
+
+839
+00:57:13,860 --> 00:57:17,676
+understanding that not everything within us needs to be put on display,
+
+840
+00:57:17,788 --> 00:57:21,280
+that some things are more precious when kept within a sacred,
+
+841
+00:57:21,730 --> 00:57:24,350
+private space. Our vulnerabilities,
+
+842
+00:57:24,850 --> 00:57:28,430
+in particular, benefit from this kind of protection.
+
+843
+00:57:28,850 --> 00:57:32,410
+Not because we're ashamed of them, but because they are still
+
+844
+00:57:32,450 --> 00:57:35,350
+in the process of being understood by us.
+
+845
+00:57:36,530 --> 00:57:39,962
+You see, there's a period in which our vulnerabilities need to
+
+846
+00:57:39,986 --> 00:57:43,450
+mature, in which we need to fully understand them
+
+847
+00:57:43,490 --> 00:57:47,470
+before we can reveal them to the world in a way that's constructive,
+
+848
+00:57:48,150 --> 00:57:52,930
+rather than exposing them in a way that leaves us feeling shaken or uncertain.
+
+849
+00:57:53,670 --> 00:57:57,550
+It's a bit like tending a young plant when
+
+850
+00:57:57,590 --> 00:58:01,182
+it's still delicate. It needs shelter and protection, a safe
+
+851
+00:58:01,246 --> 00:58:05,134
+place to grow stronger roots. If we take that plant
+
+852
+00:58:05,182 --> 00:58:08,494
+and expose it to harsh winds and conditions too soon,
+
+853
+00:58:08,662 --> 00:58:11,998
+it might not survive. In the same
+
+854
+00:58:12,054 --> 00:58:15,528
+way, exposing our vulnerabilities too early
+
+855
+00:58:15,584 --> 00:58:19,528
+or too openly can leave us feeling more fragile,
+
+856
+00:58:19,704 --> 00:58:23,528
+less sure of ourselves, as though we've given away a part of our
+
+857
+00:58:23,584 --> 00:58:26,900
+foundation before it was strong enough to stand on its own.
+
+858
+00:58:28,160 --> 00:58:32,072
+Now, when we hold certain vulnerabilities close, we're creating a
+
+859
+00:58:32,096 --> 00:58:35,592
+kind of inner sanctuary. A place where we can process,
+
+860
+00:58:35,696 --> 00:58:38,898
+reflect and understand ourselves. We give ourselves
+
+861
+00:58:39,024 --> 00:58:42,686
+chance to sit with those parts of ourselves, to explore them
+
+862
+00:58:42,758 --> 00:58:46,290
+without needing to explain or justify them to anyone else.
+
+863
+00:58:46,870 --> 00:58:50,398
+It's in this quiet space that we begin to understand what
+
+864
+00:58:50,454 --> 00:58:53,758
+those vulnerabilities mean to us. Where they come
+
+865
+00:58:53,814 --> 00:58:56,890
+from and how they shape us.
+
+866
+00:58:57,510 --> 00:59:01,246
+Are they reflections of past wounds? Or perhaps of a longing
+
+867
+00:59:01,278 --> 00:59:04,382
+we haven't fully embraced? When we take the
+
+868
+00:59:04,406 --> 00:59:08,004
+time to sit with our vulnerabilities, they begin to reveal
+
+869
+00:59:08,052 --> 00:59:11,700
+their true nature. And we come to see them not as
+
+870
+00:59:11,740 --> 00:59:15,572
+weaknesses, but as sources of strength. As parts of
+
+871
+00:59:15,596 --> 00:59:18,836
+our humanity that connect us to others on a deeper
+
+872
+00:59:18,868 --> 00:59:22,036
+level. The irony, of course,
+
+873
+00:59:22,108 --> 00:59:25,108
+is that when we keep our vulnerabilities close,
+
+874
+00:59:25,244 --> 00:59:29,520
+we often strengthen our connections with others rather than weakening them.
+
+875
+00:59:30,140 --> 00:59:34,776
+When we don't feel the need to share every tender part of our ourselves immediately,
+
+876
+00:59:34,888 --> 00:59:37,820
+we create a foundation of inner confidence.
+
+877
+00:59:38,240 --> 00:59:42,296
+And that confidence allows us to engage with others more freely
+
+878
+00:59:42,408 --> 00:59:45,416
+without seeking validation or reassurance.
+
+879
+00:59:45,608 --> 00:59:49,432
+We are not looking to others to make us feel whole, because we
+
+880
+00:59:49,456 --> 00:59:53,048
+are doing the work within ourselves, holding space for our own
+
+881
+00:59:53,104 --> 00:59:56,424
+growth, our own understanding. This self
+
+882
+00:59:56,472 --> 01:00:00,110
+reliance doesn't mean we are isolated or, or closed off.
+
+883
+01:00:00,410 --> 01:00:03,682
+It simply means that we're able to engage with others from a
+
+884
+01:00:03,706 --> 01:00:06,150
+place of wholeness, of quiet strength.
+
+885
+01:00:07,130 --> 01:00:10,770
+There's also a kind of peace that comes with knowing that some things
+
+886
+01:00:10,810 --> 01:00:14,242
+are ours alone. When we accept that we don't have
+
+887
+01:00:14,266 --> 01:00:17,954
+to reveal everything about ourselves, we experience a freedom
+
+888
+01:00:18,002 --> 01:00:21,122
+from the pressure to perform, to seek approval,
+
+889
+01:00:21,266 --> 01:00:24,590
+to seek approval, to scow a version of our.
+
+890
+01:00:24,990 --> 01:00:29,430
+And when we have strong boundaries, we're able to offer more of ourselves,
+
+891
+01:00:29,590 --> 01:00:32,934
+more of our presence to the world. Because we're not giving
+
+892
+01:00:32,982 --> 01:00:36,570
+away our essence in ways that leave us feeling depleted.
+
+893
+01:00:37,630 --> 01:00:41,382
+Over time, as our understanding of our vulnerabilities deepens,
+
+894
+01:00:41,446 --> 01:00:45,142
+we may choose to share them. But by then, they're no longer
+
+895
+01:00:45,206 --> 01:00:49,046
+fragile parts of us. They're integrated aspects
+
+896
+01:00:49,078 --> 01:00:53,770
+of our experience, parts of our story that we share with strength and clarity.
+
+897
+01:00:54,190 --> 01:00:57,862
+We're no longer sharing from a place of needing reassurance.
+
+898
+01:00:57,926 --> 01:01:01,622
+Instead, we're sharing as a gift, an offering that
+
+899
+01:01:01,646 --> 01:01:04,730
+may resonate with others and invite connection.
+
+900
+01:01:05,150 --> 01:01:08,758
+But until that time, we nurture our vulnerabilities,
+
+901
+01:01:08,934 --> 01:01:12,582
+knowing that they don't need to be seen to be real. They don't need to
+
+902
+01:01:12,606 --> 01:01:16,310
+be spoken to be valuable. They simply need our care
+
+903
+01:01:16,350 --> 01:01:20,496
+and understanding. So let your vulnerabilities
+
+904
+01:01:20,608 --> 01:01:24,112
+remain close. Keep them as quiet guides, as companions on
+
+905
+01:01:24,136 --> 01:01:27,360
+your journey. Know that they are precious not
+
+906
+01:01:27,400 --> 01:01:31,040
+because they're hidden, but because they remind you of
+
+907
+01:01:31,080 --> 01:01:34,512
+your humanity. They remind you that you're on
+
+908
+01:01:34,536 --> 01:01:38,144
+a path of self discovery, one that honors
+
+909
+01:01:38,192 --> 01:01:40,820
+both your strengths and your tender places.
+
+910
+01:01:41,400 --> 01:01:44,968
+And as you walk this path, remember. Remember that your vulnerabilities
+
+911
+01:01:45,064 --> 01:01:48,904
+are not weaknesses to be fixed. They are pieces of your wholeness,
+
+912
+01:01:49,032 --> 01:01:52,360
+Parts of the beautiful intricate mosaic that makes
+
+913
+01:01:52,400 --> 01:01:56,552
+you who you are in the end. By holding
+
+914
+01:01:56,616 --> 01:02:00,264
+space for our own vulnerabilities, we give ourselves a gift
+
+915
+01:02:00,392 --> 01:02:03,448
+far greater than validation. We give
+
+916
+01:02:03,504 --> 01:02:06,808
+ourselves the gift of self trust, of inner peace.
+
+917
+01:02:06,984 --> 01:02:10,990
+We allow ourselves to be whole, complex and wonderfully human.
+
+918
+01:02:11,290 --> 01:02:15,266
+And that is a strength that needs no audience, no approval.
+
+919
+01:02:15,458 --> 01:02:19,026
+It is simply enough. Let's take a moment
+
+920
+01:02:19,058 --> 01:02:23,122
+to talk about intuition and instinct. Those deep, often quiet
+
+921
+01:02:23,186 --> 01:02:26,630
+voices within us that don't speak in words, but are knowing.
+
+922
+01:02:27,930 --> 01:02:31,634
+Now, we might think that intuition is just about following a
+
+923
+01:02:31,642 --> 01:02:35,040
+sudden hunch or listening to a gut feeling. And sometimes it.
+
+924
+01:02:35,090 --> 01:02:39,160
+It is. But it's also about something far subtler.
+
+925
+01:02:39,660 --> 01:02:43,380
+Intuition is the wisdom that arises from a place beyond the
+
+926
+01:02:43,420 --> 01:02:46,600
+mind, a place untouched by analysis or logic.
+
+927
+01:02:47,020 --> 01:02:51,028
+It's not about figuring things out. Rather, it's about recognizing what
+
+928
+01:02:51,084 --> 01:02:53,960
+we know on a level that can't always be explained.
+
+929
+01:02:54,540 --> 01:02:58,292
+The difficulty for many of us is that we've been taught to
+
+930
+01:02:58,316 --> 01:03:02,174
+distrust this kind of knowing, to dismiss it as unreliable
+
+931
+01:03:02,222 --> 01:03:06,330
+or even naive. We're trained, after all,
+
+932
+01:03:06,710 --> 01:03:09,582
+to live in a world that values evidence, logic,
+
+933
+01:03:09,646 --> 01:03:12,862
+reasoning. And while these are useful tools,
+
+934
+01:03:12,926 --> 01:03:16,770
+they're not the only tools we have. They're just louder.
+
+935
+01:03:17,190 --> 01:03:20,050
+They take up more space in our minds.
+
+936
+01:03:20,630 --> 01:03:24,014
+But there's a quiet strength in listening to what the heart or the gut
+
+937
+01:03:24,062 --> 01:03:28,380
+tells us, in tuning into the messages that can only be felt, not explained.
+
+938
+01:03:29,120 --> 01:03:33,176
+Think about the times in your life when you just knew something was off
+
+939
+01:03:33,328 --> 01:03:37,656
+or when you felt an unexplainable pull toward a certain direction.
+
+940
+01:03:37,848 --> 01:03:41,100
+That's intuition. It doesn't ask for proof.
+
+941
+01:03:41,920 --> 01:03:45,656
+It simply tells us this is the way. The reason
+
+942
+01:03:45,728 --> 01:03:49,336
+intuition is so often undervalued is that it doesn't
+
+943
+01:03:49,368 --> 01:03:53,204
+conform to our need for certainty. The mind craves
+
+944
+01:03:53,252 --> 01:03:56,804
+answers, conclusions, a way to wrap everything up in a neat
+
+945
+01:03:56,852 --> 01:04:00,628
+package. But intuition doesn't work like
+
+946
+01:04:00,684 --> 01:04:04,356
+that. It speaks in shades, in impressions, in feelings
+
+947
+01:04:04,388 --> 01:04:07,812
+that are often ambiguous. It's more like a compass
+
+948
+01:04:07,876 --> 01:04:11,604
+than a map. It points us in a direction without showing
+
+949
+01:04:11,652 --> 01:04:15,188
+us every step along the way. And that ambiguity,
+
+950
+01:04:15,284 --> 01:04:19,590
+that inability to know in a concrete sense, can be uncomfortable.
+
+951
+01:04:19,750 --> 01:04:24,022
+But life itself is full of uncertainty. In embracing
+
+952
+01:04:24,086 --> 01:04:27,238
+our intuition, we're learning to navigate life without
+
+953
+01:04:27,294 --> 01:04:30,710
+needing to control every outcome, to trust that even if
+
+954
+01:04:30,750 --> 01:04:34,290
+we don't have all the answers, we can still find our way.
+
+955
+01:04:35,550 --> 01:04:38,970
+Now, how does this connect to the idea of self reliance?
+
+956
+01:04:39,470 --> 01:04:42,870
+Well, when we lean on our intuition, we're practicing a
+
+957
+01:04:42,910 --> 01:04:46,288
+form of inner trust. We're telling ourselves, I don't
+
+958
+01:04:46,304 --> 01:04:49,220
+need to look outside of myself for every answer.
+
+959
+01:04:49,800 --> 01:04:52,816
+There's something profoundly empowering in that.
+
+960
+01:04:52,968 --> 01:04:56,304
+It means we're no longer waiting for external validation,
+
+961
+01:04:56,432 --> 01:04:59,500
+for someone else to tell us that we're on the right track.
+
+962
+01:05:00,360 --> 01:05:03,856
+Instead, we turn inward, we listen, and we learn
+
+963
+01:05:03,888 --> 01:05:07,920
+to rely on what we feel rather than on what we think we should
+
+964
+01:05:07,960 --> 01:05:11,296
+do. This shift from external guidance
+
+965
+01:05:11,328 --> 01:05:14,980
+to inner trust is transformative. It's what allows us
+
+966
+01:05:15,020 --> 01:05:18,308
+to stand strong even when others around us
+
+967
+01:05:18,364 --> 01:05:22,436
+might question or doubt our path. Because ultimately
+
+968
+01:05:22,468 --> 01:05:25,680
+it's our path and only we can walk it.
+
+969
+01:05:26,780 --> 01:05:30,820
+When we talk about trusting intuition, it doesn't mean we reject rational
+
+970
+01:05:30,900 --> 01:05:33,360
+thought or dismiss the value of reason.
+
+971
+01:05:34,060 --> 01:05:37,720
+Intuition and logic can coexist beautifully.
+
+972
+01:05:38,460 --> 01:05:40,990
+Logic helps us navigate the physical,
+
+973
+01:05:41,100 --> 01:05:44,602
+tangible aspects of our lives, while intuition guides
+
+974
+01:05:44,666 --> 01:05:48,106
+us in a more subtle realm. It shows us things
+
+975
+01:05:48,178 --> 01:05:51,770
+logic cannot, like where our true passions lie or what might
+
+976
+01:05:51,810 --> 01:05:54,362
+bring us a sense of peace. Often,
+
+977
+01:05:54,466 --> 01:05:58,250
+intuition is that feeling of resonance when something just feels right,
+
+978
+01:05:58,370 --> 01:06:02,346
+even if we can't explain why. It's an alignment,
+
+979
+01:06:02,538 --> 01:06:06,762
+a moment when everything clicks into place and we recognize
+
+980
+01:06:06,826 --> 01:06:09,330
+that we're exactly where we need need to be.
+
+981
+01:06:10,270 --> 01:06:13,926
+But here's the thing about intuition. It requires stillness
+
+982
+01:06:14,118 --> 01:06:17,862
+In a world full of noise, distraction and constant information.
+
+983
+01:06:18,046 --> 01:06:21,770
+Listening to that inner voice means quieting the outer voices.
+
+984
+01:06:22,190 --> 01:06:26,470
+It means creating space to feel and to listen deeply.
+
+985
+01:06:26,630 --> 01:06:30,294
+This is why so many of us struggle to connect with our intuition.
+
+986
+01:06:30,422 --> 01:06:34,172
+We're simply too busy, too wrapped up in the daily hustle,
+
+987
+01:06:34,286 --> 01:06:37,600
+to pause long enough to hear it. But if we
+
+988
+01:06:37,640 --> 01:06:41,152
+slow down, if we allow ourselves to rest in silence,
+
+989
+01:06:41,216 --> 01:06:44,576
+we begin to notice a shift. The mind quiets,
+
+990
+01:06:44,608 --> 01:06:48,768
+the heart opens, and that inner knowing begins to emerge.
+
+991
+01:06:48,944 --> 01:06:52,060
+It's a gentle process, but a powerful one.
+
+992
+01:06:52,680 --> 01:06:56,400
+And with time, it becomes second nature, a reliable
+
+993
+01:06:56,480 --> 01:07:00,100
+companion guiding us through life's uncertainty.
+
+994
+01:07:01,050 --> 01:07:04,514
+Now let's address the fear that sometimes comes with trusting
+
+995
+01:07:04,562 --> 01:07:08,050
+our intuition. Many of us worry that if we follow our
+
+996
+01:07:08,090 --> 01:07:12,130
+instincts, we might make a mistake or that others might not understand our
+
+997
+01:07:12,170 --> 01:07:15,970
+choices. We think, what if I'm wrong? But intuition
+
+998
+01:07:16,050 --> 01:07:19,426
+isn't about being right or wrong. It's about aligning with what feels
+
+999
+01:07:19,458 --> 01:07:22,642
+true for us in that moment. Even if it
+
+1000
+01:07:22,666 --> 01:07:25,470
+leads us down a path that others don't understand.
+
+1001
+01:07:25,890 --> 01:07:28,714
+Or as it seems illogical to the outside world,
+
+1002
+01:07:28,802 --> 01:07:32,906
+it's still our truth. And in following it, we're honoring
+
+1003
+01:07:32,938 --> 01:07:36,730
+our own unique journey rather than conforming to
+
+1004
+01:07:36,770 --> 01:07:38,670
+someone else's expectations.
+
+1005
+01:07:40,050 --> 01:07:44,030
+In trusting intuition, we're cultivating a sense of resilience.
+
+1006
+01:07:44,450 --> 01:07:47,562
+We learn that we can face challenges without needing to
+
+1007
+01:07:47,586 --> 01:07:51,376
+know every answer in advance. That we can embrace the unknown with
+
+1008
+01:07:51,418 --> 01:07:55,652
+without fear. And in this trust, we find freedom.
+
+1009
+01:07:55,796 --> 01:07:59,560
+We're no longer bound by the need for approval or certainty.
+
+1010
+01:07:59,980 --> 01:08:03,892
+We move forward with a quiet confidence, knowing that even
+
+1011
+01:08:03,916 --> 01:08:06,760
+if we don't have a map, we have a compass.
+
+1012
+01:08:07,100 --> 01:08:10,840
+And that compass, that inner guidance, will never lead us astray.
+
+1013
+01:08:12,300 --> 01:08:16,200
+So as we go through life, let's learn to honor this part of ourselves.
+
+1014
+01:08:16,620 --> 01:08:19,666
+Let's give ourselves permission to feel, to trust,
+
+1015
+01:08:19,788 --> 01:08:23,410
+and to follow what resonates with us on a deeper level.
+
+1016
+01:08:24,510 --> 01:08:28,374
+Let's remember that we carry within us a wisdom that transcends
+
+1017
+01:08:28,422 --> 01:08:31,450
+words, one that doesn't need validation or proof.
+
+1018
+01:08:31,870 --> 01:08:35,686
+This is A wisdom that is uniquely ours, a quiet knowing
+
+1019
+01:08:35,718 --> 01:08:39,478
+that is always there, ready to guide us. And in honoring
+
+1020
+01:08:39,494 --> 01:08:42,370
+it, we honor the truest part of who we are.
+
+1021
+01:08:43,310 --> 01:08:46,886
+In the end, intuition is a gift. It's a reminder
+
+1022
+01:08:46,918 --> 01:08:50,918
+that we are not just thinking beings, but feeling beings too.
+
+1023
+01:08:51,054 --> 01:08:55,130
+We are whole, complex, capable of logic and mystery alike.
+
+1024
+01:08:55,550 --> 01:08:59,126
+So let's walk this path with our eyes open, our hearts
+
+1025
+01:08:59,158 --> 01:09:02,010
+attuned, and our intuition as our guide.
+
+1026
+01:09:02,590 --> 01:09:06,310
+And remember, sometimes the greatest strength lies not
+
+1027
+01:09:06,350 --> 01:09:09,958
+in knowing every step, but in trusting the next
+
+1028
+01:09:10,014 --> 01:09:13,360
+one. When we think about resilience,
+
+1029
+01:09:13,440 --> 01:09:17,472
+what often comes to mind is an image of stoic toughness and unyielding
+
+1030
+01:09:17,536 --> 01:09:21,700
+strength that can weather any storm without bending or breaking.
+
+1031
+01:09:22,200 --> 01:09:26,820
+But true resilience isn't about being rigid. It's about being adaptable.
+
+1032
+01:09:27,480 --> 01:09:30,800
+It's the quality that allows us to bend with the wind,
+
+1033
+01:09:30,920 --> 01:09:34,800
+to shift and move with the challenges that life inevitably brings our
+
+1034
+01:09:34,840 --> 01:09:38,601
+way. To cultivate resilience,
+
+1035
+01:09:38,745 --> 01:09:42,029
+we have to recognize that life is dynamic.
+
+1036
+01:09:42,689 --> 01:09:46,425
+Everything around us is in constant motion, and nothing stays
+
+1037
+01:09:46,457 --> 01:09:50,169
+the same for very long. When we try to hold
+
+1038
+01:09:50,209 --> 01:09:53,929
+on tightly to things, to cling to the past or to resist change,
+
+1039
+01:09:54,049 --> 01:09:57,189
+we're only fighting against the natural flow of life.
+
+1040
+01:09:57,729 --> 01:10:01,609
+And that resistance becomes exhausting. It drains our energy and
+
+1041
+01:10:01,649 --> 01:10:05,978
+leaves us feel. Feeling stuck and frustrated. Real resilience,
+
+1042
+01:10:06,074 --> 01:10:10,154
+however, is like water. Water flows around obstacles,
+
+1043
+01:10:10,282 --> 01:10:13,994
+changes its shape to fit its container, and is unafraid
+
+1044
+01:10:14,042 --> 01:10:17,370
+to transform itself in response to whatever lies in its
+
+1045
+01:10:17,410 --> 01:10:20,810
+path. So resilience is not a matter of
+
+1046
+01:10:20,850 --> 01:10:23,790
+puffing it out or forcing ourselves through pain.
+
+1047
+01:10:24,450 --> 01:10:27,922
+It's about developing the flexibility to respond to life in
+
+1048
+01:10:27,986 --> 01:10:31,602
+a way that allows us to remain balanced and connected to ourselves,
+
+1049
+01:10:31,746 --> 01:10:35,442
+no matter what is happening around us. This kind of
+
+1050
+01:10:35,466 --> 01:10:38,834
+resilience requires a level of trust, a trust that whatever
+
+1051
+01:10:38,882 --> 01:10:42,626
+comes our way is ultimately serving our growth, even if it's
+
+1052
+01:10:42,658 --> 01:10:44,710
+difficult to see that in the moment.
+
+1053
+01:10:46,010 --> 01:10:49,490
+The way we build this resilience is through an acceptance of
+
+1054
+01:10:49,530 --> 01:10:53,026
+uncertainty. Now, I know that's not always easy.
+
+1055
+01:10:53,058 --> 01:10:56,816
+As humans, we have a natural desire to seek control, to create
+
+1056
+01:10:56,888 --> 01:11:00,576
+stability and credibility in our lives. But here's
+
+1057
+01:11:00,608 --> 01:11:04,624
+the truth. The more we try to control everything, the less resilient
+
+1058
+01:11:04,672 --> 01:11:07,920
+we actually become. Because life, in its
+
+1059
+01:11:07,960 --> 01:11:11,860
+essence, is uncontrollable. It's unpredictable,
+
+1060
+01:11:12,200 --> 01:11:15,728
+and our attempts to control it only create tension within
+
+1061
+01:11:15,784 --> 01:11:19,296
+us, a resistance that makes us brittle and vulnerable
+
+1062
+01:11:19,408 --> 01:11:21,780
+when challenges inevitably, inevitably come.
+
+1063
+01:11:22,880 --> 01:11:26,168
+Imagine you're standing in the middle of a river and
+
+1064
+01:11:26,224 --> 01:11:30,344
+the water is flowing around you. If you try to stand perfectly
+
+1065
+01:11:30,392 --> 01:11:33,720
+still and resist the current, you'll find yourself struggling,
+
+1066
+01:11:33,800 --> 01:11:37,304
+even getting knocked over. But if you allow yourself
+
+1067
+01:11:37,352 --> 01:11:41,000
+to move with the flow, you find balance. This is the heart
+
+1068
+01:11:41,040 --> 01:11:44,740
+of resilience, learning to flow with life rather than against it.
+
+1069
+01:11:45,120 --> 01:11:48,582
+In this way, resilience becomes less about enduring
+
+1070
+01:11:48,646 --> 01:11:52,214
+and more about embracing. It's about trusting
+
+1071
+01:11:52,262 --> 01:11:55,894
+that we can navigate whatever comes not by rigidly bracing
+
+1072
+01:11:55,942 --> 01:11:59,430
+ourselves, but by learning to move with grace and ease through
+
+1073
+01:11:59,470 --> 01:12:03,238
+whatever life brings. A big part
+
+1074
+01:12:03,294 --> 01:12:06,598
+of this resilience comes from understanding that our thoughts
+
+1075
+01:12:06,614 --> 01:12:10,230
+and emotions, while powerful, are not the entirety of
+
+1076
+01:12:10,270 --> 01:12:13,776
+who we are. Yes, we might feel fear,
+
+1077
+01:12:13,888 --> 01:12:17,168
+disappointment, or frustration when
+
+1078
+01:12:17,224 --> 01:12:20,672
+life doesn't go as planned. But those feelings
+
+1079
+01:12:20,736 --> 01:12:24,432
+are just passing experiences. They're like clouds
+
+1080
+01:12:24,496 --> 01:12:27,728
+drifting across the sky here one moment and gone the next.
+
+1081
+01:12:27,864 --> 01:12:30,704
+The problem is we often cling to those feelings,
+
+1082
+01:12:30,832 --> 01:12:34,192
+letting them define us rather than recognizing them
+
+1083
+01:12:34,216 --> 01:12:37,522
+as temporary. We get swept up in our thoughts,
+
+1084
+01:12:37,536 --> 01:12:40,974
+thoughts, allowing them to pull us in all directions instead
+
+1085
+01:12:41,022 --> 01:12:45,054
+of seeing them as waves on the surface of the ocean, while our true
+
+1086
+01:12:45,102 --> 01:12:48,450
+nature lies in the still, deep waters beneath.
+
+1087
+01:12:49,510 --> 01:12:52,670
+When we recognize that we are not our thoughts or our
+
+1088
+01:12:52,710 --> 01:12:56,530
+emotions, we begin to cultivate a deeper sense of inner peace.
+
+1089
+01:12:57,190 --> 01:13:00,894
+We no longer feel the need to react to every little thing that happens.
+
+1090
+01:13:00,942 --> 01:13:04,904
+We become less attached to outcomes and more present to what's happening
+
+1091
+01:13:04,952 --> 01:13:08,888
+here and now. This presence, this groundedness,
+
+1092
+01:13:08,984 --> 01:13:12,776
+is the foundation of resilience. It's what allows
+
+1093
+01:13:12,808 --> 01:13:16,520
+us to stay calm and centered, even in the face of
+
+1094
+01:13:16,560 --> 01:13:20,552
+uncertainty or difficulty. In cultivating
+
+1095
+01:13:20,616 --> 01:13:24,460
+resilience, it's also helpful to develop a sense of perspective.
+
+1096
+01:13:24,960 --> 01:13:28,152
+Sometimes when we're faced with challenges, it can feel like
+
+1097
+01:13:28,176 --> 01:13:31,622
+the whole world is crashing down around us. But if
+
+1098
+01:13:31,646 --> 01:13:34,950
+we step back, even for a moment, we often find
+
+1099
+01:13:34,990 --> 01:13:38,406
+that the situation isn't as overwhelming as it seems.
+
+1100
+01:13:38,598 --> 01:13:42,134
+It's just one chapter in the story of our lives, not the whole
+
+1101
+01:13:42,182 --> 01:13:45,526
+story. This perspective allows us to approach
+
+1102
+01:13:45,598 --> 01:13:49,290
+life with a sense of curiosity rather than fear.
+
+1103
+01:13:50,190 --> 01:13:53,090
+Instead of asking, why is this happening to me?
+
+1104
+01:13:53,390 --> 01:13:56,740
+We begin to ask, what can I learn from this? This.
+
+1105
+01:13:57,280 --> 01:13:59,620
+How can I grow through this experience?
+
+1106
+01:14:00,400 --> 01:14:05,096
+Resilience in this way becomes a process of transformation.
+
+1107
+01:14:05,288 --> 01:14:09,144
+It's not about avoiding pain or difficulty. It's about using
+
+1108
+01:14:09,232 --> 01:14:12,660
+those experiences as opportunities for growth.
+
+1109
+01:14:13,200 --> 01:14:16,312
+Just as fire refines gold, the challenges
+
+1110
+01:14:16,376 --> 01:14:19,960
+we face refine us, stripping away the layers of fear,
+
+1111
+01:14:20,040 --> 01:14:23,618
+doubt and insecurity to reveal the strength and wisdom within
+
+1112
+01:14:23,674 --> 01:14:27,250
+us. And the beauty of resilience is that each time
+
+1113
+01:14:27,290 --> 01:14:30,258
+we overcome a challenge, we grow stronger,
+
+1114
+01:14:30,354 --> 01:14:33,794
+more capable, and more compassionate. We learn
+
+1115
+01:14:33,842 --> 01:14:37,362
+to face life with an open heart, knowing that no
+
+1116
+01:14:37,386 --> 01:14:41,230
+matter what happens, we have the inner resources to handle it.
+
+1117
+01:14:41,930 --> 01:14:45,202
+And so, as we move through life, we don't need to brace ourselves
+
+1118
+01:14:45,266 --> 01:14:48,550
+against the world or harden our hearts to avoid pain.
+
+1119
+01:14:49,630 --> 01:14:53,222
+Instead, we can cultivate resilience by remaining open,
+
+1120
+01:14:53,406 --> 01:14:57,382
+by embracing change, by trusting in our ability to navigate the
+
+1121
+01:14:57,406 --> 01:15:00,742
+unknown. This is the true strength of resilience.
+
+1122
+01:15:00,806 --> 01:15:04,502
+It doesn't come from fighting against life, but from flowing with it,
+
+1123
+01:15:04,606 --> 01:15:07,718
+from finding peace within ourselves, no matter what
+
+1124
+01:15:07,774 --> 01:15:11,622
+storms may come. So remember
+
+1125
+01:15:11,686 --> 01:15:15,294
+this resilience is not about avoiding the storm storms. It's about learning
+
+1126
+01:15:15,342 --> 01:15:18,830
+to dance in the rain. When we cultivate resilience,
+
+1127
+01:15:18,910 --> 01:15:23,214
+we find a strength within us that is unshakable. A calm
+
+1128
+01:15:23,262 --> 01:15:27,102
+that no storm can disturb. And in that calm,
+
+1129
+01:15:27,166 --> 01:15:30,702
+we find the freedom to live fully, to embrace
+
+1130
+01:15:30,766 --> 01:15:33,870
+life in all its beauty and mystery, without fear.
+

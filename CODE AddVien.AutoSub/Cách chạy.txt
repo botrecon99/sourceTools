@@ -1,0 +1,25 @@
+Cách Chạy:
+1. Bỏ video gốc vào "input"
+2. Chạy codeo "AddVien.bat" hoặc "AddVien+Latngang.bat"
+3. Copy "Creatsub.py" 
+4. Vào đường dẫn thư mục gõ "cmd" rồi Enter, sau đó paste "Creatsub.py" và Enter để chạy.
+
+Môi Trường:
+pip install python-dotenv
+pip install moviepy==1.0.3
+pip install assemblyai
+
+***Cách 3: Đặt biến môi trường vĩnh viễn trong Windows
+Vào Start Menu → Tìm "Environment Variables"
+
+Bấm nút "Environment Variables…"
+
+Trong phần User variables, chọn New…
+
+Nhập:
+
+Name: ASSEMBLYAI_API_KEY
+
+Value: e0205999bf224948b6b1d7cb7fe581ae
+
+OK → OK → Mở lại cửa sổ CMD → chạy lại script.
