@@ -1,4 +1,0 @@
-requests
-nltk
-textblob
-spacy

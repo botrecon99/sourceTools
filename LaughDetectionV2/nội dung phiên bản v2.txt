@@ -1,4 +1,0 @@
-clip_start	mid - 20 (luôn luôn)
-clip_end	mid + 5 mặc định, mở rộng đến e nếu có score >= 0.9 trong 30s sau
-Áp dụng ở đâu	Cả laugh_segments.csv và đoạn ffmpeg cắt video
-Tác dụng	Đảm bảo giữ được phần cao trào nếu có, nhưng không kéo dài vô nghĩa nếu không có tiếng cười tiếp theo0s sau
